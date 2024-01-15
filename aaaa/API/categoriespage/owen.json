@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "price": 6,
+        "title": "Ekmek",
+        "image": "/src/image/Page Image/Fırından/Ekmek-200g-650.jpeg",
+        "description": "200 g"
+    },
+    {
+        "id": 2,
+        "price": 7,
+        "title": "Simit",
+        "image": "/src/image/Page Image/Fırından/simit-100g-750.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 3,
+        "price": 26,
+        "title": "Eti Form",
+        "image": "/src/image/Page Image/Fırından/etiform-138g-2640.jpeg",
+        "description": "138 g"
+    },
+    {
+        "id": 4,
+        "price": 56,
+        "title": "Profiterol",
+        "image": "/src/image/Page Image/Fırından/profiterol-150g-5699.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 5,
+        "price": 11,
+        "title": "Mini Berliner  ",
+        "image": "/src/image/Page Image/Fırından/Miniberliner-225g-1150.jpg",
+        "description": "225  g"
+    },
+    {
+        "id": 6,
+        "price": 47,
+        "title": "Mini Kek  ",
+        "image": "/src/image/Page Image/Fırından/Minikek-150g-4790.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 7,
+        "price": 32 ,
+        "title": "Portakallı Kek  ",
+        "image": "/src/image/Page Image/Fırından/portakallıkek-80g-3190.jpeg",
+        "description": "80 g "
+    },
+    {
+        "id": 8,
+        "price": 24,
+        "title": "Çilekli Donut  ",
+        "image": "/src/image/Page Image/Fırından/Çileklidonut-60g-2390.jpg",
+        "description": "60 g"
+    }
+]

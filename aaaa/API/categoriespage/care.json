@@ -1,0 +1,506 @@
+    [
+        {
+            "id": 1,
+            "price": 58,
+            "title": "Cif Krem Amonyaklı",
+            "image": "/src/image/Page Image/EvBakım/CifKremAmonyaklı-750ml-58.jpg",
+            "description": "750 ml"
+        },
+        {
+            "id": 2,
+            "price": 51,
+            "title": "Cif Krem Sprey",
+            "image": "/src/image/Page Image/EvBakım/CifKremSprey-750ml-51.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 3,
+            "price": 51,
+            "title": "Cif  Sprey Limon",
+            "image": "/src/image/Page Image/EvBakım/CifKremSprey-750ml-51.jpg",
+            "description": "750 ml"
+        },
+        {
+            "id": 4,
+            "price": 45,
+            "title": "Cif Sprey Mutfak ",
+            "image": "/src/image/Page Image/EvBakım/CifSpreyMutfak-750ml-45.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 5,
+            "price": 43,
+            "title": "Domestos Pembe Güç",
+            "image": "/src/image/Page Image/EvBakım/DomestosPembeGüç-750ml-43.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 6,
+            "price": 43,
+            "title": "Domestos Kar Beyazı",
+            "image": "/src/image/Page Image/EvBakım/DomestosKarBeyazı-750ml-43.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 7,
+            "price": 43,
+            "title": "Domestos Dağ Esintisi",
+            "image": "/src/image/Page Image/EvBakım/DomestosDağEsintisi-750ml-43.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 8,
+            "price": 44,
+            "title": "Domestos Bio Active",
+            "image": "/src/image/Page Image/EvBakım/DomestosBioActive-750ml-44.jpg",
+            "description": "750 ml"
+        },
+        {
+            "id": 9,
+            "price": 31,
+            "title": "ACE Klasik",
+            "image": "/src/image/Page Image/EvBakım/AceKlasik-1L-31.jpeg",
+            "description": "1 L "
+        },
+        {
+            "id": 10,
+            "price": 40,
+            "title": "ABC Karbonatlı Çamaşır Suyu",
+            "image": "/src/image/Page Image/EvBakım/ABCKarbonatlıÇamaşırSuyu-750Ml-40.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 11,
+            "price": 12,
+            "title": "ABC Krem Amonyak",
+            "image": "/src/image/Page Image/EvBakım/ABCKremAmonyak-750mş-12.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 12,
+            "price": 55,
+            "title": "Domestos Köpük Mutfak",
+            "image": "/src/image/Page Image/EvBakım/DomestosKöpükMutfak-450ml-55.jpeg",
+            "description": "450 ml"
+        },
+        {
+            "id": 13,
+            "price": 61,
+            "title": "Asperos Sarı Güç",
+            "image": "/src/image/Page Image/EvBakım/AsperosSarıGüç-1L-61.jpeg",
+            "description": "1 L "
+        },
+        {
+            "id": 14,
+            "price": 61,
+            "title": "Asperos Mavi Güç",
+            "image": "/src/image/Page Image/EvBakım/AsperosMaviGüç-1L-61.jpeg",
+            "description": "1 L "
+        },
+        {
+            "id": 15,
+            "price": 71,
+            "title": "Ace Ultra Mutfak Sprey",
+            "image": "/src/image/Page Image/EvBakım/AceUltraMutfakSpreyi-700ml-71.jpeg",
+            "description": "700 ml"
+        },
+        {
+            "id": 16,
+            "price": 80,
+            "title": "Cillit Banyo Spreyi",
+            "image": "/src/image/Page Image/EvBakım/CillitBangBanyoSpreyi-750ml-80.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 17,
+            "price": 100,
+            "title": "Mr Muscle Banyo",
+            "image": "/src/image/Page Image/EvBakım/MrMuscleBanyo-750ml-100.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 18,
+            "price": 62,
+            "title": "Porçöz Kireç Sökücü",
+            "image": "/src/image/Page Image/EvBakım/PorçözKireçSökücü-750ml-62.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 19,
+            "price": 50,
+            "title": "Porçöz Yağ Sökücü",
+            "image": "/src/image/Page Image/EvBakım/PorçözYağSökücü-1L-50.jpeg",
+            "description": "1 L"
+        },
+        {
+            "id": 20,
+            "price": 53,
+            "title": "Domestos Yüzey Temizleyici",
+            "image": "/src/image/Page Image/EvBakım/DomestosYüzeyTemizleyici-1.5L-53.jpeg",
+            "description": "1.5 L"
+        },
+        {
+            "id": 21,
+            "price": 28,
+            "title": "Dixi Yaban Gülü",
+            "image": "/src/image/Page Image/EvBakım/DixiYabanGülü-900ml-28.jpeg",
+            "description": "900 ml"
+        },
+        {
+            "id": 22,
+            "price": 77,
+            "title": "Asperos Limon Çiçeği",
+            "image": "/src/image/Page Image/EvBakım/AsperosLimonÇiçeği-2.5L-77.jpg",
+            "description": "2.5 L"
+        },
+        {
+            "id": 23,
+            "price": 89,
+            "title": "Bref Deluxe Yasemin",
+            "image": "/src/image/Page Image/EvBakım/BrefDeluxeYasemin-89-2'li.jpeg",
+            "description": "2'li"
+        },
+        {
+            "id": 24,
+            "price": 77,
+            "title": "Mr Muscle Lavabo Açıcı",
+            "image": "/src/image/Page Image/EvBakım/MrMuscleLavaboAçıcı-2'li-77.jpeg",
+            "description": "2'li"
+        },
+        {
+            "id": 25,
+            "price": 223,
+            "title": "Selpak Kağıt Havlu",
+            "image": "/src/image/Page Image/EvBakım/SelpakKağitHavlu-12'li-223.jpeg",
+            "description": "12'li"
+        },
+        {
+            "id": 26,
+            "price": 30,
+            "title": "Ferfresh Beyaz Sirke",
+            "image": "/src/image/Page Image/EvBakım/FerfreshBeyazSirke-1L-30.jpeg",
+            "description": "1 L"
+        },
+        {
+            "id": 27,
+            "price": 70,
+            "title": "Parex Temizlik Bezi",
+            "image": "/src/image/Page Image/EvBakım/ParexTemizlikBezi-5!li-70.jpeg",
+            "description": "5'li"
+        },
+        {
+            "id": 28,
+            "price": 104,
+            "title": "Vileda Standart Eldiven",
+            "image": "/src/image/Page Image/EvBakım/ViledaStandartEldiven-KüçükBoy-104.jpeg",
+            "description": "Küçük Boy"
+        },
+        {
+            "id": 29,
+            "price": 165,
+            "title": "Yumoş Deterjan Renkliler",
+            "image": "/src/image/Page Image/EvBakım/YumoşDeterjanRenkliler-2520ml-165.jpg",
+            "description": "2520 ml"
+        },
+        {
+            "id": 30,
+            "price": 237,
+            "title": "Omo Sık Yıkananlar",
+            "image": "/src/image/Page Image/EvBakım/OmoSıkYıkananlar-5kg-237.jpeg",
+            "description": "5 kg"
+        },
+        {
+            "id": 31,
+            "price": 295,
+            "title": "Omo Color Deterjan",
+            "image": "/src/image/Page Image/EvBakıM/OmoColır-5.5Kg-295.jpeg",
+            "description": "5.5 kg"
+        },
+        {
+            "id": 32,
+            "price": 295,
+            "title": "Omo Active Fresh",
+            "image": "/src/image/Page Image/EvBakım/OmoActiveFresh-5.5kg-295.jpeg",
+            "description": "5.5 kg "
+        },
+        {
+            "id": 33,
+            "price": 240,
+            "title": "Persil Hijyen",
+            "image": "/src/image/Page Image/EvBakım/PersilHijyen-5kg-240.jpeg",
+            "description": "5 kg"
+        },
+        {
+            "id": 34,
+            "price": 150,
+            "title": "Bingo Tüm Renkler",
+            "image": "/src/image/Page Image/EvBakım/BingoTümRenkler-4l-150.jpeg",
+            "description": "4 L"
+        },
+        {
+            "id": 35,
+            "price": 42,
+            "title": "Ecos3 Yumuşatıcı",
+            "image": "/src/image/Page Image/EvBakım/Ecos3Yumuşatıcı-750ml-42.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 36,
+            "price": 170,
+            "title": "Duru Granül Sabun",
+            "image": "/src/image/Page Image/EvBakım/DuruGranülSabun-1kg-170.jpeg",
+            "description": "1 kg"
+        },
+        {
+            "id": 37,
+            "price": 110,
+            "title": "Yumoş Extra Lilyum",
+            "image": "/src/image/Page Image/EvBakım/YumoşExtraLilyum-1440ml-110.jpeg",
+            "description": "1440 ml"
+        },
+        {
+            "id": 38,
+            "price": 89,
+            "title": "Vernel Max Lavanta",
+            "image": "/src/image/Page Image/EvBakım/VernelMaxLavanta-1440ml-89.jpg",
+            "description": "1440 ml"
+        },
+        {
+            "id": 39,
+            "price": 89,
+            "title": "Vernel Gülün Büyüsü",
+            "image": "/src/image/Page Image/EvBakım/VernelGülünBüyüsü-3l-89.jpeg",
+            "description": "3 L"
+        },
+        {
+            "id": 40,
+            "price": 143,
+            "title": "Omo Bebek Parfümsüz",
+            "image": "/src/image/Page Image/EvBakım/OmoBebekParfümsüz-900ml-143.jpeg",
+            "description": "900 ml"
+        },
+        {
+            "id": 41,
+            "price": 286,
+            "title": "Dalin Yumuşatıcı",
+            "image": "/src/image/Page Image/EvBakım/DalinYumuşatıcı-1.5L-286.jpeg",
+            "description": "1.5 L"
+        },
+        {
+            "id": 42,
+            "price": 78,
+            "title": "Porçöz Leke Çıkarıcı",
+            "image": "/src/image/Page Image/EvBakım/PorçözLekeÇıkarıcıSprey-750ml-78.jpeg",
+            "description": "750 ml"
+        },
+        {
+            "id": 43,
+            "price": 19,
+            "title": "K2R Renk Koruyucu Mendil",
+            "image": "/src/image/Page Image/EvBakım/K2RRenkKoruyucuMendil-10lu-19.jpeg",
+            "description": "10'lu"
+        },
+        {
+            "id": 44,
+            "price": 86,
+            "title": "Solo Bambu Kağıt Havlu",
+            "image": "/src/image/Page Image/EvBakım/SoloBambuKağıtHavlu-6lı-86.png",
+            "description": "6'lı"
+        },
+        {
+            "id": 45,
+            "price": 165,
+            "title": "Solo Tuvalet Kağıdı",
+            "image": "/src/image/Page Image/EvBakım/SoloTuvaletKağıdı-16lı-165.jpeg",
+            "description": "16'lı"
+        },
+        {
+            "id": 46,
+            "price": 60,
+            "title": "Selpak Tuvalet Kağıdı",
+            "image": "/src/image/Page Image/EvBakım/SelpakTuvaletKağıdı-4lü-60.jpeg",
+            "description": "4'lü"
+        },
+        {
+            "id": 47,
+            "price": 156,
+            "title": "Maylo 3 Katlı Tuvalet Kağıdı",
+            "image": "/src/image/Page Image/EvBakım/Maylo3KatlıTuvaletKağıdı-16lı-156.jpeg",
+            "description": "16'lı"
+        },
+        {
+            "id": 48,
+            "price": 27,
+            "title": "Sofia El ve Yüz Havlusu",
+            "image": "/src/image/Page Image/EvBakım/SofiaElveYüzHavlusu-100lü-27.jpg",
+            "description": "100'lü"
+        },
+        {
+            "id": 49,
+            "price": 86,
+            "title": "Komili Yuvam Tuvalet Kağıdı",
+            "image": "/src/image/Page Image/EvBakım/KomiliYuvamTuvaletKağıdı-16lı-86.jpeg",
+            "description": "16'lı"
+        },
+        {
+            "id": 50,
+            "price": 49,
+            "title": "Selpak Dev Rulo Kağıt Havlu",
+            "image": "/src/image/Page Image/EvBakım/SelpakDevRuloKağıtHavlu-Tekli-49.jpeg",
+            "description": "Tekli"
+        },
+        {
+            "id": 51,
+            "price": 23,
+            "title": "Dalin Islak Mendil",
+            "image": "/src/image/Page Image/EvBakım/DalinIslakMendil-3x15yaprak-23.jpeg",
+            "description": "3 x 15 Yaprak"
+        },
+        {
+            "id": 52,
+            "price": 24,
+            "title": "Baby Turco Lavanta Islak Mendil",
+            "image": "/src/image/Page Image/EvBakım/BabyTurcoLavantaIslakMendil-70li-24.jpeg",
+            "description": "70'li"
+        },
+        {
+            "id": 53,
+            "price": 142,
+            "title": "Fairy Limon",
+            "image": "/src/image/Page Image/EvBakım/FairyLimon-1500ml-142.jpeg",
+            "description": "1500ml"
+        },
+        {
+            "id": 54,
+            "price": 59,
+            "title": "Fairy Platinium Hijyen",
+            "image": "/src/image/Page Image/EvBakım/FaıryPlatinumHijyen-500ml-59.jpeg",
+            "description": "500 ml"
+        },
+        {
+            "id": 55,
+            "price": 90,
+            "title": "Pril Losyon AloeVera",
+            "image": "/src/image/Page Image/EvBakım/PrilLosyonAloeVera-1045ml-90.jpg",
+            "description": "1045 ml"
+        },
+        {
+            "id": 56,
+            "price": 315,
+            "title": "Finish Quantum Ultimate",
+            "image": "/src/image/Page Image/EvBakım/FinishQuantumUltimate-40lı-315.jpg",
+            "description": "40'lı"
+        },
+        {
+            "id": 57,
+            "price": 370,
+            "title": "Finish UltimatePlus",
+            "image": "/src/image/Page Image/EvBakım/FinishUltimatePlus-40lı-370.jpg",
+            "description": "40'lı"
+        },
+        {
+            "id": 58,
+            "price": 240,
+            "title": "Finish Quantum ",
+            "image": "/src/image/Page Image/EvBakım/FinishQuantum-40lı-240.jpeg",
+            "description": "40'lı"
+        },
+        {
+            "id": 59,
+            "price": 165,
+            "title": "Fairy Platinum",
+            "image": "/src/image/Page Image/EvBakım/FairyPlatinum-15li-165.jpeg",
+            "description": "15'li"
+        },
+        {
+            "id": 60,
+            "price": 259,
+            "title": "Fairy Platinum Plus",
+            "image": "/src/image/Page Image/EvBakım/FairyPlatinumPlus-22li-259.jpeg",
+            "description": "22'li"
+        },
+        {
+            "id": 61,
+            "price": 122,
+            "title": "Pril Gold Tablet",
+            "image": "/src/image/Page Image/EvBakım/PrilGoldTablet-30lu-122.jpeg",
+            "description": "30'lu"
+        },
+        {
+            "id": 62,
+            "price": 112,
+            "title": "Finish Parlatıcı",
+            "image": "/src/image/Page Image/EvBakım/FinishParlatıcı-400ml-112.jpg",
+            "description": "400 ml"
+        },
+        {
+            "id": 63,
+            "price": 70,
+            "title": "Parex Klasik Sünger",
+            "image": "/src/image/Page Image/EvBakım/ParexKlasikSünger-5li-70.jpeg",
+            "description": "5'li"
+        },
+        {
+            "id": 64,
+            "price": 315,
+            "title": "Finish Quantum Ultimate",
+            "image": "/src/image/Page Image/EvBakım/FinishQuantumUltimate-40lı-315.jpg",
+            "description": "40'lı"
+        },
+        {
+            "id": 65,
+            "price": 42,
+            "title": "Okyanus Sıvı Sabun",
+            "image": "/src/image/Page Image/EvBakım/OkyanusSıvıSabun-1.8l-42.jpeg",
+            "description": "1.8 L"
+        },
+        {
+            "id": 66,
+            "price": 93,
+            "title": "Lavanta Sıvı Sabun",
+            "image": "/src/image/Page Image/EvBakım/LavantaSıvıSabun-300ml-93.jpeg",
+            "description": "300 ml"
+        },
+        {
+            "id": 67,
+            "price": 28,
+            "title": "Killi Sıvı Sabun",
+            "image": "/src/image/Page Image/EvBakım/KilliSıvıSabun-300ml-28.jpeg",
+            "description": "300 ml"
+        },
+        {
+            "id": 68,
+            "price": 89,
+            "title": "Antibakteriyel Sıvı Sabun",
+            "image": "/src/image/Page Image/EvBakım/AntibakteriyelSıvıSabun-89.jpeg",
+            "description": "700 ml"
+        },
+        {
+            "id": 69,
+            "price": 82,
+            "title": "Natural Olive Sabun",
+            "image": "/src/image/Page Image/EvBakım/NaturalOliveSabun-4x150g-82.jpeg",
+            "description": "4 x 150 g"
+        },
+        {
+            "id": 70,
+            "price": 120,
+            "title": "Doğal Kalıp Sabun",
+            "image": "/src/image/Page Image/EvBakım/DoğalKalıpSabun-4x150-120.jpeg",
+            "description": "4 x 150 g"
+        },
+        {
+            "id": 71,
+            "price": 99,
+            "title": "Glade İpeksi Vanilya",
+            "image": "/src/image/Page Image/EvBakım/GladeİpeksiVanilya-300ml-99.jpg",
+            "description": "300 ml"
+        },
+        {
+            "id": 72,
+            "price": 99,
+            "title": "Glade Aşkın Büyüsü",
+            "image": "/src/image/Page Image/EvBakım/GladeAşkınBüyüsü-300ml-99.jpg",
+            "description": "300 ml"
+        }
+    ]

@@ -1,0 +1,563 @@
+[
+    {
+        "id": 1,
+        "price": 165,
+        "title": "Sensodyne Promine Onarım",
+        "image": "/src/image/Page Image/KişiselBakım/SensodynePromineOnarım-75ml-165.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 2,
+        "price": 60,
+        "title": "Signal White System",
+        "image": "/src/image/Page Image/KişiselBakım/SignalWhiteSystem-75ml-60.jpg",
+        "description": "75 ml"
+    },
+    {
+        "id": 3,
+        "price": 164,
+        "title": "Signal White Now Gold",
+        "image": "/src/image/Page Image/KişiselBakım/SignalWhiteNowGold-75ml-164.png",
+        "description": "75 ml"
+    },
+    {
+        "id": 4,
+        "price": 164,
+        "title": "Signal White Now Diş Macunu",
+        "image": "/src/image/Page Image/KişiselBakım/SignalWhiteNowDişMacunu-75ml-164.png",
+        "description": "75 ml"
+    },
+    {
+        "id": 5,
+        "price": 164,
+        "title": "Signal Extra Fresh",
+        "image": "/src/image/Page Image/KişiselBakım/SignalExtraFresh-75ml-164.png",
+        "description": "75 ml"
+    },
+    {
+        "id": 6,
+        "price": 102,
+        "title": "Signal Detox Aktif Kömür",
+        "image": "/src/image/Page Image/KişiselBakım/SignalDetoxAktifKömür-75ml-102.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 7,
+        "price": 164,
+        "title": "Colgate Natural Zerdeçal",
+        "image": "/src/image/Page Image/KişiselBakım/ColgateNaturalZerdeçal-75ml-164.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 8,
+        "price": 165,
+        "title": "Sensodyne Promine Onarım",
+        "image": "/src/image/Page Image/KişiselBakım/SensodynePromineOnarım-75ml-165.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 9,
+        "price": 164,
+        "title": "Paradontax Tam Koruma",
+        "image": "/src/image/Page Image/KişiselBakım/ParodantaxTamKoruma-75ml-164.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 10,
+        "price": 44,
+        "title": "Colgate Total Profesyonal",
+        "image": "/src/image/Page Image/KişiselBakım/ColgateTotalProfesyonel-75ml-44.jpeg",
+        "description": "75 ml"
+    },
+    {
+        "id": 11,
+        "price": 23,
+        "title": "Colgate Üçlü Etki",
+        "image": "/src/image/Page Image/KişiselBakım/ColgateÜçlüEtki-150ml-23.jpeg",
+        "description": "150 ml"
+    },
+    {
+        "id": 12,
+        "price": 180,
+        "title": "Sensodyne Onarım",
+        "image": "/src/image/Page Image/KişiselBakım/SensodyneOnarım-2x75ml180.jpeg",
+        "description": "2 x 75 ml"
+    },
+    {
+        "id": 13,
+        "price": 197,
+        "title": "Colgate 360 Orta",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/Colgate360Orta-1+1-197.jpeg",
+        "description": "1+1"
+    },
+    {
+        "id": 14,
+        "price": 51,
+        "title": "Colgate Slim Soft",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/ColgateSlimSoft-Tekli-51.jpeg",
+        "description": "Tekli"
+    },
+    {
+        "id": 15,
+        "price": 89,
+        "title": "Colgate Çocuk Diş Fırçası",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/ColgateÇocukDişFırçası-89.jpg",
+        "description": "Tekli"
+    },
+    {
+        "id": 16,
+        "price": 57,
+        "title": "Colgate Zig Zag Orta",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/ColgateZigZagOrta-1+1-57.jpg",
+        "description": "1+1"
+    },
+    {
+        "id": 17,
+        "price": 66,
+        "title": "Signal Performans Orta",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/SignalPerformansOrta-Tekli-66.jpg",
+        "description": "Tekli"
+    },
+    {
+        "id": 18,
+        "price": 137,
+        "title": "Signal White Now Beyaz Dişler",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/SignalWhiteNowBeyazDişler-1+1-137.jpg",
+        "description": "1+1"
+    },
+    {
+        "id": 19,
+        "price": 87,
+        "title": "Sensodyne Yumuşak Diş Eti",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/SensodyneYumuşakDişEti-tekli-87.jpeg",
+        "description": "Tekli"
+    },
+    {
+        "id": 20,
+        "price": 764,
+        "title": "Oral-B Şarjlı Diş Fırçası",
+        "image": "/src/image/Page Image/KişiselBakım/DişFırçası/OralbŞarjlıDişFırçası-Tekli-764.jpeg",
+        "description": "Tekli"
+    },
+    {
+        "id": 21,
+        "price": 111,
+        "title": "Colgate Optik Beyaz",
+        "image": "/src/image/Page Image/KişiselBakım/TemizleyiciSu/ColgateOptikBeyaz-500ml-111.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 22,
+        "price": 79,
+        "title": "Colgate Plax Nane Ferahlığı",
+        "image": "/src/image/Page Image/KişiselBakım/TemizleyiciSu/ColgatePlaxNaneFerahlığı-250ml-79.jpeg",
+        "description": "250 ml"
+    },
+    {
+        "id": 23,
+        "price": 134,
+        "title": "Listerine Cool Mint",
+        "image": "/src/image/Page Image/KişiselBakım/TemizleyiciSu/ListerineCoolMint-500ml-134.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 24,
+        "price": 140,
+        "title": "Listerine Total Care",
+        "image": "/src/image/Page Image/KişiselBakım/TemizleyiciSu/ListerineTotalCare-500ml-140.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 25,
+        "price": 128,
+        "title": "Oral-B Diş İpi",
+        "image": "/src/image/Page Image/KişiselBakım/Dişİpi/OralBDişİpi-25m-128.jpeg",
+        "description": "25 m"
+    },
+    {
+        "id": 26,
+        "price": 156,
+        "title": "Colgate Diş İpi",
+        "image": "/src/image/Page Image/KişiselBakım/Dişİpi/ColgateDişİpi-50m-156.jpeg",
+        "description": "50 m"
+    },
+    {
+        "id": 27,
+        "price": 120,
+        "title": "Sensodyne Diş İpi",
+        "image": "/src/image/Page Image/KişiselBakım/Dişİpi/SensodyneDişİpi-30m-120.jpeg",
+        "description": "30 m"
+    },
+    {
+        "id": 28,
+        "price": 37,
+        "title": "StopEver Kürdanlı Diş İpi",
+        "image": "/src/image/Page Image/KişiselBakım/Dişİpi/StopEverKürdanlıDişİpi-50Adet-37.jpeg",
+        "description": "50 Adet"
+    },
+    {
+        "id": 29,
+        "price": 89,
+        "title": "Elidor Onarıcı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorOnarıcıŞampuan-400ml-89.jpeg",
+        "description": "400 ml"
+    },
+    {
+        "id": 30,
+        "price": 89,
+        "title": "Elidor 2'si 1 Arada ", 
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/Elidor2si1Arada-400ml-89.jpg",
+        "description": "400 ml"
+    },
+    {
+        "id": 31,
+        "price": 130,
+        "title": "Elidor Şampuan ",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorŞampuan-500ml-130.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 32,
+        "price": 59,
+        "title": "Elidor Argan Yağlı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorArganYağıŞampuan-500ml-59.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 33,
+        "price": 100,
+        "title": "Elidor Elektrik Önleyici",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorElektriklenmeÖnleyici-300ml-100.png",
+        "description": "300 ml"
+    },
+    {
+        "id": 34,
+        "price": 84,
+        "title": "Elidor Belirgin Bukleler",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorBelirginBukleler-265ml-84.jpg",
+        "description": "265 ml"
+    },
+    {
+        "id": 35,
+        "price": 89,
+        "title": "Elidor Bakım Kremi",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElidorBakımKremi-350ml-89.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 36,
+        "price": 265,
+        "title": "Elidor 7/24 Bakım Kremi",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/Elidor724BakımKremi-265-120.jpg",
+        "description": "265 ml"
+    },
+    {
+        "id": 37,
+        "price": 94,
+        "title": "Pantene Super Food Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/PanteneSuperfoodŞampuan-350ml-94.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 38,
+        "price": 94,
+        "title": "Pantene Onarıcı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/PanteneOnarıcıŞampuan-350ml-94.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 39,
+        "price": 120,
+        "title": "Elseve Hydra Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElseveHydraŞampuan-390ml-120.jpg",
+        "description": "390 ml"
+    },
+    {
+        "id": 40,
+        "price": 250,
+        "title": "Elseve Mor Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ElseveMorŞampuan-200ml-250.png",
+        "description": "200 ml"
+    },
+    {
+        "id": 41,
+        "price": 93,
+        "title": "Bioblas Isırganlı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/BioblasIsırganlıŞampuan-360ml-93.jpg",
+        "description": "360 ml"
+    },
+    {
+        "id": 42,
+        "price": 93,
+        "title": "Bioblas Antistress Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/BioblasAntistressŞampuan-360ml-93.jpg",
+        "description": "360 ml"
+    },
+    {
+        "id": 43,
+        "price": 93,
+        "title": "Bioblas Keratinli Şampuan ",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/Bioblas KeratinliŞampuan-360ml-93.jpg",
+        "description": "360 ml"
+    },
+    {
+        "id": 44,
+        "price": 93,
+        "title": "Bioblas Sarımsaklı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/BioblasSarımsaklıŞampuan-360ml-93.jpg",
+        "description": "360 ml"
+    },
+    {
+        "id": 45,
+        "price": 102,
+        "title": "Gliss Serum Deep Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/GlissSerumDeepŞampuan-500ml-102.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 46,
+        "price": 100,
+        "title": "Gliss BioTech Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/GlissBioTechŞampuan-500ml-100.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 47,
+        "price": 102,
+        "title": "Gliss İntense Şampuan ",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/GlissİntenseŞampuan-500ml-102.jpg",
+        "description": ""
+    },
+    {
+        "id": 48,
+        "price": 156,
+        "title": "Old Spice Şampuan ",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/OldSpiceŞampuan-400ml-156.jpg",
+        "description": "400 ml"
+    },
+    {
+        "id": 49,
+        "price": 101,
+        "title": "Clear Man Sport",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ClearManCoolSport-350ml-101.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 50,
+        "price": 101,
+        "title": "Clear Man Hızlı Stil",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ClearManHızlıStil-350ml-101.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 51,
+        "price": 101,
+        "title": "Clear Man Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ClearManŞampuan-350ml-101.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 52,
+        "price": 104,
+        "title": "Clear Man Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/ClearManŞampuan-350ml-104.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 53,
+        "price": 106,
+        "title": "Dove Ultra Care Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/DoveUltraCareŞampuan-400ml-106.jpg",
+        "description": "400 ml"
+    },
+    {
+        "id": 54,
+        "price": 106,
+        "title": "Dove Avakado Özlü Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/DoveAvakadoÖzlüŞampuan-400ml-106.jpg",
+        "description": "400 ml"
+    },
+    {
+        "id": 55,
+        "price": 137,
+        "title": "Dove Yoğun Onarıcı Şampuan",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/DoveYoğunOnarıcıŞampuan-600ml-137.jpg",
+        "description": "600 ml"
+    },
+    {
+        "id": 56,
+        "price": 163,
+        "title": "Dove Hair Threapy",
+        "image": "/src/image/Page Image/KişiselBakım/Şampuan/DoveHairTherapy-350ml-163.jpg",
+        "description": "350 ml"
+    },
+    {
+        "id": 57,
+        "price": 142,
+        "title": "Palmolive Badem Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/PalmoliveBademDuşJeli-500ml-142.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 58,
+        "price": 182,
+        "title": "Palmolive Böğürtlen Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/PalmoliveBöğürtlenDuşJeli-500ml-182.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 59,
+        "price": 182,
+        "title": "Palmolive Feel The Energy",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/PalmoliveFeelTheEnergy-500ml-182.png",
+        "description": "500 ml"
+    },
+    {
+        "id": 60,
+        "price": 60,
+        "title": "Palmolive Zeytin Özü",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/PalmoliveZeytinÖzü-500ml-60.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 61,
+        "price": 197,
+        "title": "Akdeniz Çileği Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/AkdenizÇileğiDuşJeli2x400-197.jpeg",
+        "description": "2 x 400 ml"
+    },
+    {
+        "id": 62,
+        "price": 164,
+        "title": "Beyaz Şeftali Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/BeyazŞeftaliDuşJeli-400ml-164.jpeg",
+        "description": "400 ml"
+    },
+    {
+        "id": 63,
+        "price": 154,
+        "title": "Gül Nemlendirici Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/GülNemlendiriciDuşJeli.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 64,
+        "price": 80,
+        "title": "Vanilya Sütü Duş Jeli",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/VanilyaSütüDuşJeli-250ml-80.jpeg",
+        "description": "250 ml"
+    },
+    {
+        "id": 65,
+        "price": 38,
+        "title": "Balmy Banyo Lİfi",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/BalmyBanyoLifi-1adet-38.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 66,
+        "price": 68,
+        "title": "Zeytin Çiçeği Banyo Lifi",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/ZeytinÇiçeğiSabunluBanyoLifi-1adet-68.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 67,
+        "price": 68,
+        "title": "Beyaz Sabunlu Banyo Lifi",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/BeyazSabunluBanyoLifi-1adet-68.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 68,
+        "price": 18,
+        "title": "Lionesse Banyo Lifi",
+        "image": "/src/image/Page Image/KişiselBakım/DuşBanyo/LionesseBanyoLifi-1adet-18.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 69,
+        "price": 131,
+        "title": "Dove Avakado Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/DoveSıvıSabunAvakdo-450ml-131.jpg",
+        "description": "450 ml"
+    },
+    {
+        "id": 70,
+        "price": 79,
+        "title": "Krem Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/KremSıvıSabun-300ml-79.jpg",
+        "description": "300 ml"
+    },
+    {
+        "id": 71,
+        "price": 50,
+        "title": "Antibakteriyel Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/AntibakteriyelSıvıSabun-300ml-50.jpeg",
+        "description": "300 ml"
+    },
+    {
+        "id": 72,
+        "price": 93,
+        "title": "Sütlü Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/SütSıvıSabun-300ml93.jpeg",
+        "description": "300 ml"
+    }
+    ,
+    {
+        "id": 73,
+        "price": 28,
+        "title": "Killi Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/KilliSıvıSabun-300ml-28.jpeg",
+        "description": "300 ml"
+    },
+    {
+        "id": 74,
+        "price": 35,
+        "title": "Duru Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/DuruSıvıSabun-500ml-35.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 75,
+        "price": 56,
+        "title": "Vegan Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/VeganSıvıSabun-500ml56.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 76,
+        "price": 61,
+        "title": "Lavanta Sıvı Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/LavantaSıvıSabun-300ml-61.jpeg",
+        "description": "300 ml"
+    },
+    {
+        "id": 77,
+        "price": 82,
+        "title": "Natural Olive Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/NaturalOliveSabun-4x150g-82.jpeg",
+        "description": "4 x 150 g"
+    },
+    {
+        "id": 78,
+        "price": 120,
+        "title": "Doğal Kalıp Sabun",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/DoğalKalıpSabun-4x150g-120.jpeg",
+        "description": "4 x 150 g"
+    },
+    {
+        "id": 79,
+        "price": 82,
+        "title": "Duru Duş Sabunu",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/DuruDuşSabunu-4x150g-82.jpeg",
+        "description": "4 x 150 g"
+    },
+    {
+        "id": 80,
+        "price": 77,
+        "title": "Duru Güzellik Sabunu",
+        "image": "/src/image/Page Image/KişiselBakım/Sabun/DuruGüzellikSabunu-4x70g-77.jpeg",
+        "description": "4 x 70 g"
+    }
+]

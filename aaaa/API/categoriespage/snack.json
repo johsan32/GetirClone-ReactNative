@@ -1,0 +1,968 @@
+[
+    {
+        "id": 1,
+        "price": 56,
+        "title": "Pringles Original",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesOriginal-165g-56.jpg",
+        "description": "165 g"
+    },
+    {
+        "id": 2,
+        "price": 56,
+        "title": "Pringles Ekşi Krema & Soğan",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesEkşiKrema&Soğan-165g-56.jpg",
+        "description": "165 g"
+    },
+    {
+        "id": 3,
+        "price": 56,
+        "title": "Pringles Barbekü",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesBarbekü-165g-56.jpg",
+        "description": "165 g"
+    },
+    {
+        "id": 4,
+        "price": 56,
+        "title": "Pringles Nacho Peynirli",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesNachoPeynirli-165g-56.jpg",
+        "description": "165 g"
+    },
+    {
+        "id": 5,
+        "price": 39,
+        "title": "Pringles Original",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesOriginal-70g-39.jpg",
+        "description": "70 g"
+    },
+    {
+        "id": 6,
+        "price": 39,
+        "title": "Pringles Ekşi Krema & Soğan",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesEkşiKrema&Soğan-70g-39.jpg",
+        "description": "70 g"
+    },
+    {
+        "id": 7,
+        "price": 25,
+        "title": "Pringles Original",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesOriginal-40g-25.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 8,
+        "price": 25,
+        "title": "Pringles Texas Barbekü",
+        "image": "/src/image/Page Image/Atıştırmalık/PringlesTexasBarbekü-40g-25.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 9,
+        "price": 37,
+        "title": "Lay's Klasik",
+        "image": "/src/image/Page Image/Atıştırmalık/Lay'sKlasik-150g-37.jpg",
+        "description": "150 g"
+    },
+    {
+        "id": 10,
+        "price": 37,
+        "title": "Lay's Baharatlı",
+        "image": "/src/image/Page Image/Atıştırmalık/Lays'Baharatlı-150g-37.jpg",
+        "description": "150 g"
+    },
+    {
+        "id": 11,
+        "price": 37,
+        "title": "Lay's Mevsim Yeşillikli",
+        "image": "/src/image/Page Image/Atıştırmalık/Lay'sMevsimYeşillikli-134g-37.jpg",
+        "description": "134 g"
+    },
+    {
+        "id": 12,
+        "price": 37,
+        "title": "Lay's Mevsim Yeşillikli",
+        "image": "/src/image/Page Image/Atıştırmalık/Lay'sMevsimYeşillikli-134g-37.jpg",
+        "description": "134 g"
+    },
+    {
+        "id": 13,
+        "price": 36,
+        "title": "Doritos Taco",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosTaco-169g-36.jpg",
+        "description": "169 g"
+    },
+    {
+        "id": 14,
+        "price": 36,
+        "title": "Doritos Nacho Peynirli",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosNachoPeynirli-169g-36.jpg",
+        "description": "169 g"
+    },
+    {
+        "id": 15,
+        "price": 27,
+        "title": "Doritos Acı Biberli",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosAcıBiberli-113g-27.jpg",
+        "description": "113 g"
+    },
+    {
+        "id": 16,
+        "price": 29,
+        "title": "Doritos Flamin'Hot",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosFlamin'Hot-102g-29.jpg",
+        "description": "102 g"
+    },
+    {
+        "id": 17,
+        "price": 29,
+        "title": "Doritos Risk",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosRisk-113g-29.jpg",
+        "description": "113 g"
+    },
+    {
+        "id": 18,
+        "price": 27,
+        "title": "Doritos Turca",
+        "image": "/src/image/Page Image/Atıştırmalık/DoritosTurca-113g-27.jpg",
+        "description": "113 g"
+    },
+    {
+        "id": 19,
+        "price": 37,
+        "title": "Ruffles Originals",
+        "image": "/src/image/Page Image/Atıştırmalık/RufflesOriginals-150g-37.jpg",
+        "description": "105 g"
+    },
+    {
+        "id": 20,
+        "price": 25,
+        "title": "Ruffles Ketçaplı",
+        "image": "/src/image/Page Image/Atıştırmalık/RufflesKetçaplı-150g-37.jpg",
+        "description": "105 g"
+    },
+    {
+        "id": 21,
+        "price": 29,
+        "title": "Ruffles Peynir&Soğan",
+        "image": "/src/image/Page Image/Atıştırmalık/RufflesPeynir&Soğan-107g-29.jpg",
+        "description": "107 g"
+    },
+    {
+        "id": 22,
+        "price": 21,
+        "title": "Çerezza Popcorn",
+        "image": "/src/image/Page Image/Atıştırmalık/ÇerezzaPopcorn-80g-21.jpg",
+        "description": "80 g"
+    },
+    {
+        "id": 23,
+        "price": 27,
+        "title": "Çerezza Süt Mısırı",
+        "image": "/src/image/Page Image/Atıştırmalık/ÇerezzaSütMısırı-117g-27.jpg",
+        "description": "117 g"
+    },
+    {
+        "id": 24,
+        "price": 27,
+        "title": "Çerezza Acılı",
+        "image": "/src/image/Page Image/Atıştırmalık/ÇerezzaAcılı-117g-27.jpg",
+        "description": "117 g"
+    },
+    {
+        "id": 25,
+        "price": 36,
+        "title": "Patos Baharatlı",
+        "image": "/src/image/Page Image/Atıştırmalık/PatosBaharatlı-167g-36.jpg",
+        "description": "167 g"
+    },
+    {
+        "id": 26,
+        "price": 36,
+        "title": "Patos Rolls Acılı",
+        "image": "/src/image/Page Image/Atıştırmalık/PatosRollsAcılı-167g-36.jpg",
+        "description": "167 g"
+    },
+    {
+        "id": 27,
+        "price": 36,
+        "title": "Patos Acı Baharatlı",
+        "image": "/src/image/Page Image/Atıştırmalık/PatosAcıBaharatlı-167g-36.jpg",
+        "description": "167 g"
+    },
+    {
+        "id": 28,
+        "price": 29,
+        "title": "Patos Critos Peynirli",
+        "image": "/src/image/Page Image/Atıştırmalık/PatosCritosPeynirli-115g-29.jpg",
+        "description": "115 g"
+    },
+    {
+        "id": 29,
+        "price": 29,
+        "title": "Chips Master Kabuklu Baharatlı",
+        "image": "/src/image/Page Image/Atıştırmalık/ChipsMasterKabukluBaharatlı-104g-29.jpg",
+        "description": "104 g"
+    },
+    {
+        "id": 30,
+        "price": 26,
+        "title": "Chips Master Kabuklu",
+        "image": "/src/image/Page Image/Atıştırmalık/ChipsMasterKabukluKlasik-104g-26.jpg",
+        "description": "104 g"
+    },
+    {
+        "id": 31,
+        "price": 23,
+        "title": "Chips Master Kabuklu Yoğurt",
+        "image": "/src/image/Page Image/Atıştırmalık/ChipsMasterKabukluYoğurt-104g-23.jpg",
+        "description": "104 g"
+    },
+    {
+        "id": 32,
+        "price": 27,
+        "title": "Cipso Tırtıklı Orijinal",
+        "image": "/src/image/Page Image/Atıştırmalık/CipsoTırtıklıOrijinal-150g-27.jpg",
+        "description": "150 g"
+    },
+    {
+        "id": 33,
+        "price": 28,
+        "title": "Nutzz Patlamış Mısır",
+        "image": "/src/image/Page Image/Atıştırmalık/NutzzPatlamışMısır-105g-28.jpg",
+        "description": "105 g"
+    },
+    {
+        "id": 34,
+        "price": 7,
+        "title": "Eti Gong",
+        "image": "/src/image/Page Image/Atıştırmalık/EtiGong-40g-7.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 35,
+        "price": 75,
+        "title": "Tadım Hurma",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/TadımHurma-163g-75.jpg",
+        "description": "163 g"
+    },
+    {
+        "id": 36,
+        "price": 52,
+        "title": "List Nut Rabbi Hurma",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ListNutsRabbiHurma-500g-52.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 37,
+        "price": 46,
+        "title": "Peyman Bahçeden Hurma",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanBahçedenHurma-150g-46.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 38,
+        "price": 35,
+        "title": "Kavrulmuş Siyah Ayçekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşSiyahAyÇekirdeği-180g-35.jpg",
+        "description": "180 g"
+    },
+    {
+        "id": 39,
+        "price": 34,
+        "title": "Peyman Kara Şimşek Ayçekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKaraŞimşekAyÇekirdeği-180g-34.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 40,
+        "price": 30,
+        "title": "List Nuts Ayçekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ListNutsAyçekirdeği-200g-30.jpeg",
+        "description": "200 g"
+    },
+    {
+        "id": 41,
+        "price": 70,
+        "title": "Kavrulmuş Kabak Çekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşKabakÇekirdeği-180g-70.jpg",
+        "description": "180 g"
+    },
+    {
+        "id": 42,
+        "price": 73,
+        "title": "Tuzsuz Kabak Çekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/TuzsuzKabakÇekirdeği-180g-73.jpg",
+        "description": "73"
+    },
+    {
+        "id": 43,
+        "price": 86,
+        "title": "Çiğ İç Kabak Çekirdeği",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ÇiğİçKabakÇekirdeği-150g-86.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 44,
+        "price": 86,
+        "title": "Festival Karışık Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/FestivalKarışıkKuruyemiş-180g-86.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 45,
+        "price": 80,
+        "title": "Naturel Çiğ Karışık",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/NaturelÇiğKarışık-180g-80.jpg",
+        "description": "180 g"
+    },
+    {
+        "id": 46,
+        "price": 72,
+        "title": "Peyman Klasik Karışık",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKlasikKarışık-180g-72.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 47,
+        "price": 35,
+        "title": "Şenlik Karışık Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ŞenlikKarışıkKuruyemiş-140g-35.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 48,
+        "price": 66,
+        "title": "Üzümlü Karışık Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ÜzümlüKarışıkKuruyemiş-180g-66.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 49,
+        "price": 82,
+        "title": "Kokteyl Karışık Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KokteylKarışıkKuruyemiş-180g-82.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 50,
+        "price": 67,
+        "title": "Peyman Soslu Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanSosluKuruyemiş-180g-67.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 51,
+        "price": 77,
+        "title": "Bahçeden Ara Öğün",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/BahçedenAraÖğün-140g-77.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 52,
+        "price": 111,
+        "title": "Party Mix Karışık Kuruyemiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PartyMixKarşıkKuruyemiş-500g-111.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 53,
+        "price": 68,
+        "title": "List Nuts Kuruyrmiş",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ListNutsKuruyemiş-150g-68.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 54,
+        "price": 26,
+        "title": "Otto Nuts Çiğ Karışık",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/OttoNutsÇiğKArışık-50g-26.jpeg",
+        "description": "50 g"
+    },
+    {
+        "id": 55,
+        "price": 176,
+        "title": "Kavrulmuş Antep Fıstığı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşAntepFıstığı-180g-176.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 56,
+        "price": 165,
+        "title": "Peyman Antep Fıstığı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanAntepFıstığı-150g-165.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 57,
+        "price": 129,
+        "title": "List Nuts Antep Fıstığı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/ListNutsAntepFıstığı-140g-129.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 58,
+        "price": 82,
+        "title": "Peyman Çiğ Ceviz İçi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanÇiğCevizİçi-140g-82.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 59,
+        "price": 15,
+        "title": "Otto Nuts Ceviz",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/OttoNutsCeviz-25g-15.jpeg",
+        "description": "25 g"
+    },
+    {
+        "id": 60,
+        "price": 166,
+        "title": "Kavrulmuş Fındık İçi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşFındıkİçi-250g-166.jpeg",
+        "description": "250 g"
+    },
+    {
+        "id": 61,
+        "price": 120,
+        "title": "Kavrulmuş Fındık İçi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşFındıkİçi-180g-120.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 62,
+        "price": 43,
+        "title": "İşlenmiş Kaju Fındığı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/İşlenmişKajuFındığı-75g-43.jpeg",
+        "description": "75 g"
+    },
+    {
+        "id": 63,
+        "price": 103,
+        "title": "Kavrulmuş Badem içi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşBademİçi-180g-103.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 64,
+        "price": 38,
+        "title": "Beyaz Leblebi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/BeyazLeblebi-180g-38.jpg",
+        "description": "180 g"
+    },
+    {
+        "id": 65,
+        "price": 45,
+        "title": "Sarı Leblebi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/SarıLeblebi-180g-45.jpg",
+        "description": "180 g"
+    },
+    {
+        "id": 66,
+        "price": 58,
+        "title": "Kavrulmuş Yer Fıstığı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KavrulmuşYerFıstığı-250g-58.jpeg",
+        "description": "250 g"
+    },
+    {
+        "id": 67,
+        "price": 76,
+        "title": "Peyman Kuru Kayısı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKuruKayısı-140g-76.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 68,
+        "price": 44,
+        "title": "Peyman Kuru İncir",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKuruİncir-140g-44.jpg",
+        "description": "140 g"
+    },
+    {
+        "id": 69,
+        "price": 39,
+        "title": "Peyman Kuru Üzüm",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKuruÜzüm-200g-39.jpeg",
+        "description": "200g"
+    },
+    {
+        "id": 70,
+        "price": 53,
+        "title": "Peyman Kuru Erik",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanKuruErik-140g-53.png",
+        "description": "140 g"
+    },
+    {
+        "id": 71,
+        "price": 42,
+        "title": "Peyman Dut Kurusu",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/PeymanDutKurusu-100g-42.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 72,
+        "price": 41,
+        "title": "Kurutulmuş Çilek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/Kurutulmuş Çilek-19g-41.jpeg",
+        "description": "19 g"
+    },
+    {
+        "id": 73,
+        "price": 41,
+        "title": "Kurutulmuş Ananas",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/KurutulmuşAnanas-18g-41.jpeg",
+        "description": "18 g"
+    },
+    {
+        "id": 74,
+        "price": 13,
+        "title": "Fındıklı Cezerye",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/FındıklıCezerye-40g-13.jpeg",
+        "description": "40 g"
+    },
+    {
+        "id": 75,
+        "price": 5,
+        "title": "Eti Browni Gold Çikolatalı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/EtiBrownieGoldÇikolatalı-5.jpeg",
+        "description": "45 g"
+    },
+    {
+        "id": 76,
+        "price": 5,
+        "title": "Eti Browni Vişneli",
+        "image": "/src/image/Page Image/Atıştırmalık/Kuruyemiş/EtBrowniVişneli-45g-5.jpeg",
+        "description": "45 g"
+    },
+    {
+        "id": 77,
+        "price": 5.70,
+        "title": "Eti Süt Burger",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiSütBurger-570-35g.jpg",
+        "description": "35 g"
+    },
+    {
+        "id": 78,
+        "price": 4.70,
+        "title": "Eti Topkek Fındıklı Kakaolu",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiTopkekFındıklıKakaolu-35g-470.jpg",
+        "description": "35 g"
+    },
+    {
+        "id": 79,
+        "price": 4.70,
+        "title": "Eti Topkek Meyveli",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiTopkekMeyveli-40g-470.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 80,
+        "price": 21,
+        "title": "Mini Kakaolu Portakallı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/MiniKakaoluPortakallıKek-150g-21.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 81,
+        "price": 21,
+        "title": "Limonlu Haşhaşlı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/LimonluHaşhaşlıKek-150g-21.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 82,
+        "price": 8,
+        "title": "Eti Browni İntense Çikolatalı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiBrowniİntenseÇikolatalıKek-50g-8.jpeg",
+        "description": "50 g"
+    },
+    {
+        "id": 83,
+        "price": 33,
+        "title": "Eti Browni İntense Mini",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiBrowniİntenseMini-160g-33.jpeg",
+        "description": "160 g"
+    },
+    {
+        "id": 84,
+        "price": 10,
+        "title": "Eti Browni İntense Gold",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiBrowniİntenseGold-48g-10.jpeg",
+        "description": "48 g"
+    },
+    {
+        "id": 85,
+        "price": 37,
+        "title": "Eti Browni Classic",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiBrowniClassic-200g-37.jpeg",
+        "description": "200 g"
+    },
+    {
+        "id": 86,
+        "price": 9,
+        "title": "Eti Popkek Limonlu Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiPopkekLimonluKek-60g-9.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 87,
+        "price": 9,
+        "title": "Eti Popkek Çikolatalı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiPopkekÇikolatalıKek-60g-9.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 88,
+        "price": 9,
+        "title": "Eti Popkek Bitter Çikolatalı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/PopkekBitterÇikolatalı-55g-9.jpeg",
+        "description": "55 g"
+    },
+    {
+        "id": 89,
+        "price": 9,
+        "title": "Eti Popkek Muzlu Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiPopkekMuzluKek-60g-9.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 90,
+        "price": 33,
+        "title": "Eti Prponot Glutensiz Kakaolu",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/EtiPrpronotGlutensizKakaolu-144g-33.jpeg",
+        "description": "144 g"
+    },
+    {
+        "id": 91,
+        "price": 8,
+        "title": "Kinder Süt Dilimi",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/KinderSütDilimi-28g-8.jpg",
+        "description": "28 g"
+    },
+    {
+        "id": 92,
+        "price": 8,
+        "title": "Ozmo Cool",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/OzmoCool-30g-8.jpg",
+        "description": "30 g"
+    },
+    {
+        "id": 93,
+        "price": 32,
+        "title": "Uno Portakallı Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/UnoPortakallıKek-80g-32.jpeg",
+        "description": "80 g"
+    },
+    {
+        "id": 94,
+        "price": 5,
+        "title": "Dankek Pöti Kakaolu",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/DankekPötiKakaolu-35g-5.jpeg",
+        "description": "35 g"
+    },
+    {
+        "id": 95,
+        "price": 5,
+        "title": "Dankek Pöti Meyveli",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/DankekPötiMeyveli-35g-5.jpeg",
+        "description": "35 g"
+    },
+    {
+        "id": 96,
+        "price": 26,
+        "title": "Dankek Kakaolu Lokmalık",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/DankekKakaoluLokmalık-160g-26.png",
+        "description": "160 g"
+    },
+    {
+        "id": 97,
+        "price": 26,
+        "title": "Dankek Havuçlu Tarçınlı Lokmalık",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/DankekHavuçluTarçınlıLokmalık-160g-26.png",
+        "description": "160 g"
+    },
+    {
+        "id": 98,
+        "price": 18,
+        "title": "O'Lala Sufle",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/O'lalaSufle-70g-18.jpg",
+        "description": "70 g"
+    },
+    {
+        "id": 99,
+        "price": 6,
+        "title": "Dankek 8 Kek Muzlı",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/Dankek8KekMuzlu-55g-6.jpeg",
+        "description": "55 g"
+    },
+    {
+        "id": 100,
+        "price": 6,
+        "title": "Dankek 8 Kek Çikolata",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/Dankek8KekÇikolata-55g-6.jpeg",
+        "description": "55 g"
+    },
+    {
+        "id": 101,
+        "price": 6,
+        "title": "Ülker Dankek Orman Meyveli",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/ÜlkerDankekOrmanMeyveli-55g-6.png",
+        "description": "55 g"
+    },
+    {
+        "id": 102,
+        "price": 5,
+        "title": "Kekstra Jölebol Çilekli Kek",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/KekstraJölebolÇilekliKek-40g-5.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 103,
+        "price": 31,
+        "title": "Dankek Tart Çilekli",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/DankekTartÇilekli-180g-31.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 104,
+        "price": 36,
+        "title": "Luppo Kakaolu Sandviç",
+        "image": "/src/image/Page Image/Atıştırmalık/Kek/LuppoKakaoluSandviçKek-184g-36.jpeg",
+        "description": "184 g"
+    },
+    {
+        "id": 105,
+        "price": 31,
+        "title": "Ülker Halley",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerHAlley-240g-31.jpeg",
+        "description": "240 g"
+    },
+    {
+        "id": 106,
+        "price": 31,
+        "title": "Ülker Halley Beyaz Çikolatalı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerHalleyBeyazÇikolatalı-210g-31.jpeg",
+        "description": "210 g"
+    },
+    {
+        "id": 107,
+        "price": 31,
+        "title": "Ülker Halley Karadut",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerHalleyKaradut-g-.jpeg",
+        "description": "236 g"
+    },
+    {
+        "id": 108,
+        "price": 12,
+        "title": "Ülker Biskrem",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerBiskrem-100g-12.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 109,
+        "price": 13,
+        "title": "Ülker Probis",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerProbis-75g-13.jpeg",
+        "description": "75 g"
+    },
+    {
+        "id": 110,
+        "price": 11,
+        "title": "İkram Fındıklı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/İkramFındıklı-85g-11.jpeg",
+        "description": "85 g"
+    },
+    {
+        "id": 111,
+        "price": 9,
+        "title": "Hanımeller Çokodamla",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/HanımellerÇokodamla-82g-9.jpeg",
+        "description": "82 g"
+    },
+    {
+        "id": 112,
+        "price": 10,
+        "title": "Hanımeller Fındıklı Rulo",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/HanımellerFındıklıRulo-82g-10.jpeg",
+        "description": "82 g"
+    },
+    {
+        "id": 113,
+        "price": 13,
+        "title": "Saklıköy Çikolatalı Bisküvi",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/SakloköyÇikolatalıBisküvi-87g-13.jpeg",
+        "description": "87 g"
+    },
+    {
+        "id": 114,
+        "price": 7,
+        "title": "Ülker Kremalı Sandviç",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerKremalıSandviç-61g-7.jpeg",
+        "description": "31 g"
+    },
+    {
+        "id": 115,
+        "price": 36,
+        "title": "Ülker Çokoprens",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerÇokoprens-300g-36.jpeg",
+        "description": "300 g"
+    },
+    {
+        "id": 116,
+        "price": 13,
+        "title": "Ülker Albeni",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerAlbeni-72g-13.jpeg",
+        "description": "72 g"
+    },
+    {
+        "id": 117,
+        "price": 10,
+        "title": "Coco Star",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/CocoStar-66g-10.jpeg",
+        "description": "66 g"
+    },
+    {
+        "id": 118,
+        "price": 9,
+        "title": "Ülker Çokomel",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerÇokomel-3x12g-9.jpg",
+        "description": "3 x 12 g"
+    },
+    {
+        "id": 119,
+        "price": 7,
+        "title": "Haylayf Bisküvi",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/HaylayfBisküv.jpeg",
+        "description": "64 g"
+    },
+    {
+        "id": 120,
+        "price": 14,
+        "title": "Eti Burçak Yulaflı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiBurçakYulaflı-125g-14.jpeg",
+        "description": "125 g"
+    },
+    {
+        "id": 121,
+        "price": 15,
+        "title": "Eti Tutku Kakao",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiTutkuKakao-100g-15.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 122,
+        "price": 13,
+        "title": "Eti Nero Kakaolu",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiNeroKakaolu-110g-13.jpeg",
+        "description": "110 g"
+    },
+    {
+        "id": 123,
+        "price": 15,
+        "title": "Eti Benimo",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiBenimo-80g-15.jpeg",
+        "description": "80 g"
+    },
+    {
+        "id": 124,
+        "price": 11,
+        "title": "Eti Kombo Bisküvi",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiKomboBisküvi-84g-11.jpeg",
+        "description": "84 g"
+    },
+    {
+        "id": 125,
+        "price": 13,
+        "title": "Eti Cin Portakallı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiCinPortakallı-114g-13.jpeg",
+        "description": "114 g"
+    },
+    {
+        "id": 126,
+        "price": 30,
+        "title": "Oreo",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/Oreo-110g-30.jpeg",
+        "description": "110 g"
+    },
+    {
+        "id": 127,
+        "price": 36,
+        "title": "Luppo Vişneli",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/LuppoVişneli-182g-36.jpeg",
+        "description": "182 g"
+    },
+    {
+        "id": 128,
+        "price": 6,
+        "title": "Ülker Çikolatalı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerÇikolatalı-36g-6.jpg",
+        "description": "36 g"
+    },
+    {
+        "id": 129,
+        "price": 7,
+        "title": "Nesquik Gofret",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/NesquikGofret-27g-7.jpeg",
+        "description": "27 g"
+    },
+    {
+        "id":130,
+        "price": 8,
+        "title": "Ülker Dido",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerDido-35g-8.jpeg",
+        "description": "35 g"
+    },
+    {
+        "id": 131,
+        "price": 9,
+        "title": "Ülker Çokonat",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerÇokonat-33g-9.jpeg",
+        "description": "33 g"
+    },
+    {
+        "id": 132,
+        "price": 17,
+        "title": "Nutymax Antep Fıstıklı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/NutymaxAntepFıstıklı-44g-17.jpeg",
+        "description": "44 g"
+    },
+    {
+        "id": 133,
+        "price": 10,
+        "title": "Eti Karam",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiKaram-50g-10.jpg",
+        "description": "50 g"
+    },
+    {
+        "id": 134,
+        "price": 6,
+        "title": "Eti Beyaz Çikolatalı",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiBeyazÇikolatalı-35g-6.jpeg",
+        "description": "35 g"
+    },
+    {
+        "id": 135,
+        "price": 7,
+        "title": "Alpella 3GEN Gofret",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/Alpella3genGofret-28g-7.jpeg",
+        "description": "28 g"
+    },
+    {
+        "id": 136,
+        "price": 10,
+        "title": "Ülker Dido Trio",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/ÜlkerDidoTrio-37g-10.jpeg",
+        "description": "37 g"
+    },
+    {
+        "id": 137,
+        "price": 13,
+        "title": "Eti Hoşbeş",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/EtiHoşbeş-70g-13.png",
+        "description": "70 g"
+    },
+    {
+        "id": 138,
+        "price": 19,
+        "title": "Ülker 9 Kat",
+        "image": "/src/image/Page Image/Atıştırmalık/Bisküvi/Ülker9Kat-114g-19.jpeg",
+        "description": "114 g"
+    }
+]

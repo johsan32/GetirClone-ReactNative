@@ -1,0 +1,366 @@
+[
+    {
+        "id": 1,
+        "price": 15,
+        "title": "Burgu Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/BurguMakarna-500g-15.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 2,
+        "price": 15,
+        "title": "Çarliston Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/ÇarlistonMakarna-500g-15.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 3,
+        "price": 15,
+        "title": "Fiyonk Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/FiyonkMakarma-500g-1490.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 4,
+        "price": 15,
+        "title": "Kalem Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/KalemMakarna-500g-1490.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 5,
+        "price": 15,
+        "title": "Midye Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/MidyeMakarna-500g-15.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 6,
+        "price": 15,
+        "title": "Spagetti Makarna  ",
+        "image": "/src/image/Page Image/Temel Gıda/SpagettiMakarna-500g-15.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 7,
+        "price": 15,
+        "title": "Uzun Makarna",
+        "image": "/src/image/Page Image/Temel Gıda/Uzun Makarna-500g-15.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 8,
+        "price": 15,
+        "title": "Yüksük Makarna  ",
+        "image": "/src/image/Page Image/Temel Gıda/YüksükMakarna-500g-1490.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 9,
+        "price": 59,
+        "title": "İşlenmiş Baldo Pirinç",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/BaldoPirinç-1kg-59.jpeg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 10,
+        "price": 26,
+        "title": "İşlenmiş Kırık Pirinç",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KırıkPirinç-1kg-2590.jpeg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 11,
+        "price": 38,
+        "title": "Jasmine Pirinç",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/JasminePirinç-1kg-38.jpeg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 12,
+        "price": 48,
+        "title": "Osmancık Pirinç  ",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/OsamancıkPirinç-1kg-48.jpeg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 13,
+        "price": 22,
+        "title": "Pilavlık Bulgur",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/PilavlıkBulgur-1Kg-22.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 14,
+        "price": 22,
+        "title": "Köftelik Bulgur",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KöftelikBulgur-1Kg-22.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 15,
+        "price": 39,
+        "title": "İri Bulgur",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/İriBulgur-1KG-39.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 16,
+        "price": 39,
+        "title": "Esmer Bulgur",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/EsmerBulgur-1kg-39.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 17,
+        "price": 63,
+        "title": "Kırmızı Mercimek",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KırmızıMercimek-1Kg-63.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 18,
+        "price": 63,
+        "title": "Yeşil Mercimek",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/YeşilMercimek-62-6150.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 19,
+        "price": 97,
+        "title": "İri Koçbaşı Nohut",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/İri Nohut-1kg-97.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 20,
+        "price": 190,
+        "title": "Koçbaşı Nohut",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KoçbaşıNohut-2kg-190.jpg",
+        "description": "2 Kg"
+    },
+    {
+        "id": 21,
+        "price": 96,
+        "title": "Dermason Fasulye",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DermasonFasulye-1kg-96.jpg",
+        "description": "2 Kg"
+    },
+    {
+        "id": 22,
+        "price": 39,
+        "title": "Börülce",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Börülce-500g-39.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 23,
+        "price": 18,
+        "title": "Aşurelik Buğday",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/AşurelikBuğday-500g-18.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 24,
+        "price": 28,
+        "title": "Patlayan Mısır",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/PatlayanMısır-500g-28.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 25,
+        "price": 32,
+        "title": "Maş Fasulyesi",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/MaşFasulyesi-500g-32.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 26,
+        "price": 39,
+        "title": "İç Bakla",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Bakla-500g-39.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 27,
+        "price": 125,
+        "title": "Beyaz Kinoa",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/BeyazKinoa-500g-125.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 28,
+        "price": 26,
+        "title": "Keten Tohumu",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KetenTohumu-500g-26.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 29,
+        "price": 82,
+        "title": "Chia Tohumu",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/ChiaTohumu-500g-82.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 30,
+        "price": 62,
+        "title": "Barbunya",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Barbunya-500g-62.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 31,
+        "price": 50,
+        "title": "Firik",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Firik-500g-50.jpg",
+        "description": "500 g"
+    },
+    {
+        "id": 32,
+        "price": 39,
+        "title": "Tel Şehriyeli Bulgur",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/TelŞehriyeliBulgur-1Kg-39.jpg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 33,
+        "price": 44,
+        "title": "Domates Salçası",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DomatesSalçası-830g-44.jpeg",
+        "description": "830 g"
+    },
+    {
+        "id": 34,
+        "price": 37,
+        "title": "Domates Salçası",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DomatesSalçası-360g-44.jpeg",
+        "description": "360 g"
+    },
+    {
+        "id": 35,
+        "price": 91,
+        "title": "Domates Salçası",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/BiberSalçası-550g-91.jpg",
+        "description": "550 g"
+    },
+    {
+        "id": 36,
+        "price": 91,
+        "title": "Acı Biber Salçası",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/AcıBiberSalçası-550g-91.jpeg",
+        "description": "550 g"
+    },
+    {
+        "id": 37,
+        "price": 96,
+        "title": "Karışık Salça",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/KarışıkSalça-560g-9590.jpeg",
+        "description": "560 g"
+    },
+    {
+        "id": 38,
+        "price": 40,
+        "title": "Domates Rendesi",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DomatesRendesi-685g-40.jpg",
+        "description": "685 g"
+    },
+    {
+        "id": 39,
+        "price": 33,
+        "title": "Domates Rendesi",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DoğranmışDomates-400g-33.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 40,
+        "price": 42,
+        "title": "Menemen Harcı",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/MenemenHarcı-340g-42.jpeg",
+        "description": "340 g"
+    },
+    {
+        "id": 41,
+        "price": 42,
+        "title": "Ketçap",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Ketçap-460g-42.jpg",
+        "description": "460 g"
+    },
+    {
+        "id": 42,
+        "price": 54,
+        "title": "Sarımsaklı Ketçap",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/SarımsaklıKetçap-460g-54.jpg",
+        "description": "460 g"
+    },
+    {
+        "id": 43,
+        "price": 48,
+        "title": "Acılı Ketçap",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/AcılıKetçap-48-460.jpg",
+        "description": "460 g"
+    },
+    {
+        "id": 44,
+        "price": 72,
+        "title": "Diyet Ketçap",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/DiyetKEtçap-435g-72.jpg",
+        "description": "435 g"
+    },
+    {
+        "id": 45,
+        "price": 57,
+        "title": "Mayonez",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Mayonez-400g-57.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 46,
+        "price": 74,
+        "title": "Sarımsaklı Mayonez",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Sarımsaklı Mayonez-400g-74.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 47,
+        "price": 99,
+        "title": "Acılı Mayonez",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/AcılıMayonez-405g-99.jpg",
+        "description": "405 g"
+    },
+    {
+        "id": 48,
+        "price": 67,
+        "title": "Light Mayonez",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/LightMayonez-420-67.jpg",
+        "description": "420 g"
+    },
+    {
+        "id": 49,
+        "price": 39,
+        "title": "Barbekü Sos",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/BarbeküSos-25g-39.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 50,
+        "price": 50,
+        "title": "Hardal",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Hardal-240g-50.jpg",
+        "description": "240 g"
+    },
+    {
+        "id": 51,
+        "price": 39,
+        "title": "Hot Chili Sos",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/HotChilliSos-245g-39.jpg",
+        "description": "245 g"
+    },
+    {
+        "id": 52,
+        "price": 53,
+        "title": "Sriracha",
+        "image": "/src/image/Page Image/Temel Gıda/bakliyat/Sriracha-255g-53.jpg",
+        "description": "255 g"
+    }
+]

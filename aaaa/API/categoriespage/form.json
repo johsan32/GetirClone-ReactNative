@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "price": 29,
+        "title": "Tadım Antep Fıstıklı",
+        "image": "/src/image/Page Image/FitForm/TadımAntepFıstıklı-27g-29.jpg",
+        "description": "27 g"
+    },
+    {
+        "id": 2,
+        "price": 14,
+        "title": "Tadım Fındıklı",
+        "image": "/src/image/Page Image/FitForm/TadımFındıklı-30g-14.jpg",
+        "description": "30 g"
+    },
+    {
+        "id": 3,
+        "price": 14,
+        "title": "Tadım Hurmalı Bar",
+        "image": "/src/image/Page Image/FitForm/TadımHurmalıBar-40g-14.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 4,
+        "price": 10,
+        "title": "Tadım Yer Fıstıklı",
+        "image": "/src/image/Page Image/FitForm/TadımYerFıstıklı-30g-10.jpg",
+        "description": "30 g"
+    },
+    {
+        "id": 5,
+        "price": 18,
+        "title": "Nesfit Çikolatalı",
+        "image": "/src/image/Page Image/FitForm/NesfitÇikolatalı-23.5g-18.jpg",
+        "description": "23.5 g"
+    },
+    {
+        "id": 6,
+        "price": 49,
+        "title": "Nesfit Çilekli",
+        "image": "/src/image/Page Image/FitForm/NesfitÇilekli-3x23.5g-49.jpg",
+        "description": "3 x 23.5 g"
+    },
+    {
+        "id": 7,
+        "price": 18,
+        "title": "Nesfit Çilekli",
+        "image": "/src/image/Page Image/FitForm/NesfitÇilekli-23.5g-18.jpg",
+        "description": "23.5 g"
+    },
+    {
+        "id": 8,
+        "price": 18,
+        "title": "Nesfit Muzlu Çikolatalı",
+        "image": "/src/image/Page Image/FitForm/NesfitMuzluÇikolatalı-23.5g-18.jpg",
+        "description": "23.5 g"
+    },
+    {
+        "id": 9,
+        "price": 29,
+        "title": "Fellas Antep Fıstıklı",
+        "image": "/src/image/Page Image/FitForm/FellasAntepFıstıklı-40g-29.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 10,
+        "price": 29,
+        "title": "Fellas Duble Kakao",
+        "image": "/src/image/Page Image/FitForm/FellasDubleKakao-32g-29.jpg",
+        "description": "12 Renk"
+    },
+    {
+        "id": 11,
+        "price": 29,
+        "title": "Fellas Fındık ve Kakao",
+        "image": "/src/image/Page Image/FitForm/FellasFındıkveKakao-32g-29.jpg",
+        "description": "32 g"
+    },
+    {
+        "id": 12,
+        "price": 47,
+        "title": "Fellas Hindistan Cevizli",
+        "image": "/src/image/Page Image/FitForm/FellasHindistanCevizli-45g-47.jpg",
+        "description": "45 g"
+    },
+    {
+        "id": 13,
+        "price": 30,
+        "title": "Züber Fındıklı Meyve Bar",
+        "image": "/src/image/Page Image/FitForm/ZüberFındıklıMeyveBar-40g-30.jpeg",
+        "description": "40 g"
+    },
+    {
+        "id": 14,
+        "price": 35,
+        "title": "Züber Fıstıklı Meyve Bar",
+        "image": "/src/image/Page Image/FitForm/ZüberFıstıklıMeyveBar-40g-35.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 15,
+        "price": 24,
+        "title": "Züber Orman Meyveli",
+        "image": "/src/image/Page Image/FitForm/ZüberOrmanMeyveli-35g-24.jpeg",
+        "description": "35 g "
+    },
+    {
+        "id": 16,
+        "price": 30,
+        "title": "Züber Portakal Bar",
+        "image": "/src/image/Page Image/FitForm/ZüberPortakalBar-40g-30.jpg",
+        "description": "40 g"
+    },
+    {
+        "id": 17,
+        "price": 58,
+        "title": "Eti Lifalif Granola Fındıklı",
+        "image": "/src/image/Page Image/FitForm/EtiLifalifGranolaFındıklı-200g-58.jpeg",
+        "description": "200 g "
+    },
+    {
+        "id": 18,
+        "price": 140,
+        "title": "Mom's Kakao&Fındık ",
+        "image": "/src/image/Page Image/FitForm/Mom'sKakao&Fındık-360g-140.jpg",
+        "description": "360 g"
+    },
+    {
+        "id": 19,
+        "price": 140,
+        "title": "Mom's Muz&Ceviz",
+        "image": "/src/image/Page Image/FitForm/Mom'sMuz&Ceviz-360g-140.jpg",
+        "description": "360 g"
+    },
+    {
+        "id": 20,
+        "price": 140,
+        "title": "Mom's Çilek Chia",
+        "image": "/src/image/Page Image/FitForm/MomsÇilekChia-360g-141.jpg",
+        "description": "360 g"
+    },
+    {
+        "id": 21,
+        "price": 141,
+        "title": "Mom's Yaban Mersinli",
+        "image": "/src/image/Page Image/FitForm/MomsYabanMersinli-360g-141.jpg",
+        "description": "360 g"
+    },
+    {
+        "id": 22,
+        "price": 21,
+        "title": "Kellogs Granola Karışık Meyveli",
+        "image": "/src/image/Page Image/FitForm/KellogsGranolaKarışıkMeyveli-60g-21.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 23,
+        "price": 93,
+        "title": "Kellogs Çikolata Fındık",
+        "image": "/src/image/Page Image/FitForm/KellogsÇikolataFındık-340g-93.jpg",
+        "description": "340 g"
+    },
+    {
+        "id": 24,
+        "price": 21,
+        "title": "Kellogs Çikolata Fındık",
+        "image": "/src/image/Page Image/FitForm/KellogsÇikolataFındık-60g-21.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 25,
+        "price": 11,
+        "title": "Eti Form Bitter Çikolatalı",
+        "image": "/src/image/Page Image/FitForm/EtiFormBitterÇikolatalı-50g-11.jpeg",
+        "description": "50 g"
+    },
+    {
+        "id": 26,
+        "price": 11,
+        "title": "Eti Form Çok Tahıllı",
+        "image": "/src/image/Page Image/FitForm/EtiFormÇokTahıllı-41g-11.jpeg",
+        "description": "41 g"
+    },
+    {
+        "id": 27,
+        "price": 6,
+        "title": "Eti Form Domates",
+        "image": "/src/image/Page Image/FitForm/EtiFormDomates-40g-6.jpeg",
+        "description": "40 g"
+    },
+    {
+        "id": 28,
+        "price": 8,
+        "title": "Eti Form Limon Lifli",
+        "image": "/src/image/Page Image/FitForm/EtiFormLimonLifli-50g-8.jpeg",
+        "description": "50 g"
+    },
+    {
+        "id": 29,
+        "price": 27,
+        "title": "Altınbaşak Çörekotlu Bisküvi",
+        "image": "/src/image/Page Image/FitForm/AltınbaşakÇörekotluBisküvi-5x40g-27.jpeg",
+        "description": "5 x 40 g"
+    },
+    {
+        "id": 30,
+        "price": 25,
+        "title": "Altınbaşak Kepekli Grissini",
+        "image": "/src/image/Page Image/FitForm/AltınbaşakKepekl.jpeg",
+        "description": "125 g"
+    },
+    {
+        "id": 31,
+        "price": 12,
+        "title": "Altınbaşak Labne Sandviç",
+        "image": "/src/image/Page Image/FitForm/AltınbaşakLabneSandviç-55g-12.jpeg",
+        "description": "55 g"
+    },
+    {
+        "id": 32,
+        "price": 41,
+        "title": "Altınbaşak Yulaflı Bisküvi",
+        "image": "/src/image/Page Image/FitForm/AltınbaşakYulaflıBisküvi-46g-4.png",
+        "description": "46 g"
+    },
+    {
+        "id": 33,
+        "price": 55,
+        "title": "Wasa Sade Gevrek",
+        "image": "/src/image/Page Image/FitForm/WasaSadeGevrek-275g-55.jpeg",
+        "description": "275 g"
+    },
+    {
+        "id": 34,
+        "price": 20,
+        "title": "Uno Cookie",
+        "image": "/src/image/Page Image/FitForm/UnoCookie-50g-20.jpeg",
+        "description": "50 g"
+    },
+    {
+        "id": 35,
+        "price": 54,
+        "title": "Humm Peynirli Kraker",
+        "image": "/src/image/Page Image/FitForm/HummPeynirliKraker-60g-54.jpeg",
+        "description": "60 g"
+    },
+    {
+        "id": 36,
+        "price": 72,
+        "title": "Saf Pirinç Patlaklı",
+        "image": "/src/image/Page Image/FitForm/SafPirinçPatlaklı-40g-72.jpeg",
+        "description": "40 g"
+    },
+    {
+        "id": 37,
+        "price": 56,
+        "title": "Special'K Klasik",
+        "image": "/src/image/Page Image/FitForm/SpecialKKlasik-420g-56.jpg",
+        "description": "420 g"
+    },
+    {
+        "id": 38,
+        "price": 76,
+        "title": "Kellog's Kırmızı Meyveli",
+        "image": "/src/image/Page Image/FitForm/Kellogg'sKırmızıMeyveli-400g-76.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 39,
+        "price": 76,
+        "title": "Special'K Bitter Çikolatalı",
+        "image": "/src/image/Page Image/FitForm/SpecialKBitterÇikolatalı-400g-76.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 40,
+        "price": 34,
+        "title": "Kellog's Yulaf Ezmesi",
+        "image": "/src/image/Page Image/FitForm/Kellogg'sYulafEzmesi-400g-34.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 41,
+        "price": 38,
+        "title": "Lifalif Yulaf Ezmesi",
+        "image": "/src/image/Page Image/FitForm/LifalifYulafEzmesi-350g-38.jpeg",
+        "description": "350 g"
+    },
+    {
+        "id": 42,
+        "price": 44,
+        "title": "Lifalif Meyveli",
+        "image": "/src/image/Page Image/FitForm/LifalifMeyveli-350g-44.jpeg",
+        "description": "350 g"
+    },
+    {
+        "id": 43,
+        "price": 92,
+        "title": "Nesfit Karışık Meyveli",
+        "image": "/src/image/Page Image/FitForm/NesfitKarışıkMeyveli-400g-92.jpg",
+        "description": "400 g"
+    },
+    {
+        "id": 44,
+        "price": 18,
+        "title": "Nesfit Çikolatalı",
+        "image": "/src/image/Page Image/FitForm/NesfitÇikolatalı-23.5g-18.jpg",
+        "description": "23.5 g"
+    },
+    {
+        "id": 45,
+        "price": 60,
+        "title": "Nilky Yulaf Sütü",
+        "image": "/src/image/Page Image/FitForm/NilkyYulafSütü-1L-60.jpg",
+        "description": "1 L"
+    },
+    {
+        "id": 46,
+        "price": 42,
+        "title": "Alpro Badem İçeceği",
+        "image": "/src/image/Page Image/FitForm/AlproBademİçeceği-250ml-42.jpg",
+        "description": "250 ml"
+    },
+    {
+        "id": 47,
+        "price": 132,
+        "title": "Alpro Hindistan Cevizi",
+        "image": "/src/image/Page Image/FitForm/AlproHindistanCevizi-1L-132.jpg",
+        "description": "1 L"
+    },
+    {
+        "id": 48,
+        "price": 50,
+        "title": "Sinangil Glutensiz Un",
+        "image": "/src/image/Page Image/FitForm/SinangilGlutensizUn-500g-50.jpg",
+        "description": "500 g "
+    }
+]

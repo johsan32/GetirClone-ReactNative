@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "price": 66.99,
+        "title": "Kuzeyden Su" ,
+        "image": "/src/image/Page Image/WaterPage/kuzeydensu6.jpg",
+        "description": "12 X 330 ML"
+       
+      },
+      {
+        "id": 2,
+        "price": 6.50,
+        "title": "Kuzeyden Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/kuzeyteklisu.jpeg",
+        "description": "500 ML"
+      },
+      {
+        "id": 3,
+        "price": 69.99,
+        "title": "Kuzeyden Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/kuzeydensu1litre.jpg",
+        "description": "1 L"
+      },
+      {
+        "id":4,
+        "price": 8.60,
+        "title": "Erikli  Su" ,
+        "image": "/src/image/Page Image/WaterPage/erikli500ml.png",
+        "description": "500 ML"
+       
+      },
+      {
+        "id": 5,
+        "price": 84.50,
+        "title": "Erikli Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/erikli12x500.png",
+        "description": "12 X 500 ML"
+      },
+      {
+        "id": 6,
+        "price": 28.50,
+        "title": "Erikli Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/Erikli5litre.jpeg",
+        "description": "5 L"
+      },
+      {
+        "id": 7,
+        "price": 13.80,
+        "title": "Damla Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/damlacam-330ml-1380.jpg",
+        "description": "330 ML"
+      },
+      {
+        "id": 8,
+        "price": 5.50,
+        "title": "Hayat Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/hayat-15l-550.jpeg",
+        "description": "550 ML"
+      },
+      {
+        "id": 9,
+        "price": 25.99,
+        "title": "Saka Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/saka-5l-2599.jpeg",
+        "description": "5 L "
+      },
+      {
+        "id": 10,
+        "price": 70.50,
+        "title": "Saka Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/saka-6x15l-7050.jpg",
+        "description": "6 X 15 L "
+      },
+      {
+        "id": 11,
+        "price": 68.99,
+        "title": "Hayat  Su  "  ,
+        "image": "/src/image/Page Image/WaterPage/hayat-112x500ml-6899.jpg",
+        "description": "12 X 500 ML "
+      },
+      {
+        "id": 12,
+        "price": 38.80,
+        "title": "Acqua Panna  "  ,
+        "image": "/src/image/Page Image/WaterPage/acquapanna-750-3880.jpg",
+        "description": "750 ML "
+      },
+      {
+        "id": 13,
+        "price": 22.50,
+        "title": "Zero Cola  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/Coca-Cola-Zero2250-250ml.jpg",
+        "description": "250 ML  "
+      },
+      {
+        "id": 14,
+        "price": 22.50,
+        "title": "Coca-Cola  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/Coca-Cola2250-250ml.jpg",
+        "description": "750 ML "
+      },
+      {
+        "id": 15,
+        "price": 123.50,
+        "title": " Coca-Cola "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/Coca-Cola12350-6x250ml.jpg",
+        "description": "6 X 250 ML "
+      },
+      {
+        "id": 16,
+        "price": 22.50,
+        "title": "Fanta  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/fanta-2250-250ml.jpg",
+        "description": "250 ML "
+      },
+      {
+        "id": 17,
+        "price": 17.01,
+        "title": " Pepsi  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/pepsi-1701-250ml.jpg",
+        "description": "250 ML "
+      },
+      {
+        "id": 18,
+        "price": 38.80,
+        "title": " Pepsi Max "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/pepsimax-1701-250ml.jpg",
+        "description": "250 ML "
+      },
+      {
+        "id": 19,
+        "price": 17.01,
+        "title": "Pepsi Twist  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/pepsitwist-1701-250ml.jpg",
+        "description": "250 ML "
+      },
+      {
+        "id": 20,
+        "price": 19.96,
+        "title": "Fruko  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/fruko-1996-1L.jpg",
+        "description": "1 L "
+      },
+      {
+        "id": 21,
+        "price": 22.29,
+        "title": " Maltana  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/maltanaananas-2229-250ml.jpg",
+        "description": " 250 ML "
+      },
+      {
+        "id": 22,
+        "price": 13.23 ,
+        "title": " Schweppes  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/SchweppesTonik-1323-250.jpg",
+        "description": " 250 ML "
+      },
+      {
+        "id": 22,
+        "price": 24.50 ,
+        "title": " Çamlıca   "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/CamlıcaGazoz-2450-1L.jpg",
+        "description": " 1 L "
+      },
+      {
+        "id": 22,
+        "price": 22.50 ,
+        "title": " Sprite  "  ,
+        "image": "/src/image/Page Image/WaterPage/Icecek/Sprıte-2250-250.jpg",
+        "description": " 250 ML "
+      }
+]
+

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "price": 22,
+        "title": "Whiskas Yavru Kedi Maması",
+        "image": "/src/image/Page Image/Pet/WhiskasYavruKediMaması-85g-22.jpg",
+        "description": "85 g"
+    },
+    {
+        "id": 2,
+        "price": 22,
+        "title": "Whiskas Somonlu Kedi Maması",
+        "image": "/src/image/Page Image/Pet/WhiskasSomonluKediMaması-85g-22.jpg",
+        "description": "85 g"
+    },
+    {
+        "id": 3,
+        "price": 22,
+        "title": "Whiskas Sığır Etli Mama",
+        "image": "/src/image/Page Image/Pet/WhiskasSığırEtliMama-85g-22.jpg",
+        "description": "85 g"
+    },
+    {
+        "id": 4,
+        "price": 43,
+        "title": "Whiskas Junior Tavuklu ",
+        "image": "/src/image/Page Image/Pet/WhiskasJuniorTavuklu-300g-43.jpeg",
+        "description": "300 g"
+    },
+    {
+        "id": 5,
+        "price": 88,
+        "title": "Sheba Kümes Hayvanları",
+        "image": "/src/image/Page Image/Pet/ShebaKümesHayvanları-6x50-88.jpg",
+        "description": "6 x 50"
+    },
+    {
+        "id": 6,
+        "price": 88,
+        "title": "Sheba Balık Seçici",
+        "image": "/src/image/Page Image/Pet/ShebaBalıkSeçkisi-6x50-88.jpeg",
+        "description": "6 x 50"
+    },
+    {
+        "id": 7,
+        "price": 138,
+        "title": "Purina One Sığır Etli",
+        "image": "/src/image/Page Image/Pet/PurinaOneSığırEtli-800g-138.jpeg",
+        "description": "800 g"
+    },
+    {
+        "id": 8,
+        "price": 240,
+        "title": "Purion One Kısır Somonlu",
+        "image": "/src/image/Page Image/Pet/PurinaOneKısırSomonlu-800g-240.jpeg",
+        "description": "800 g "
+    },
+    {
+        "id": 9,
+        "price": 27,
+        "title": "Proline Yetişkin Kuzulu",
+        "image": "/src/image/Page Image/Pet/ProlineYetişkinKuzulu-415g-27.jpeg",
+        "description": "415 g"
+    },
+    {
+        "id": 10,
+        "price": 130,
+        "title": "Pisi Pisi İnce Taneli",
+        "image": "/src/image/Page Image/Pet/PisiPisiİnceTaneli-6L-130.jpeg",
+        "description": "6 L"
+    },
+    {
+        "id": 11,
+        "price": 320,
+        "title": "Perfect Fit Yetişkin Kedi Maması",
+        "image": "/src/image/Page Image/Pet/PerfectFitYetişkinKediMaması-1.4Kg-320.png",
+        "description": "1.4 Kg"
+    },
+    {
+        "id": 12,
+        "price": 77,
+        "title": "Pedigree Yetişkin Sığır Etli",
+        "image": "/src/image/Page Image/Pet/PedigreeYetişkinSığırEtli-400g-77.jpeg",
+        "description": "400 g"
+    },
+    {
+        "id": 13,
+        "price": 88,
+        "title": "Pedigree Yetişkin Karışık",
+        "image": "/src/image/Page Image/Pet/PedigreeYeteişkinLarışık-4x100g-88.jpeg",
+        "description": "4 x 100 g "
+    },
+    {
+        "id": 14,
+        "price": 52,
+        "title": "Muhabbet Kuşu Yemi",
+        "image": "/src/image/Page Image/Pet/MuhabbetKuşuYemi-400g-52.jpeg",
+        "description": "400 g "
+    },
+    {
+        "id": 15,
+        "price": 83,
+        "title": "Lindo Cat Sabunlu Kum",
+        "image": "/src/image/Page Image/Pet/LindoCatSabunluKum-5L-83.jpeg",
+        "description": "5 L"
+    },
+    {
+        "id": 16,
+        "price": 122,
+        "title": "Gimcat Kedi Macunu",
+        "image": "/src/image/Page Image/Pet/GimcatKediMacunu-20g-122.jpeg",
+        "description": "20 g "
+    } 
+]

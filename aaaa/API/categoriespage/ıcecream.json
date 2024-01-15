@@ -1,0 +1,443 @@
+[
+    {
+        "id": 1,
+        "price": 25     ,
+        "title": "Magnum Badem",
+        "image": "/src/image/Page Image/Dondurma/MagnumBadem-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 2,
+        "price": 25,
+        "title": "Magnum Beyaz",
+        "image": "/src/image/Page Image/Dondurma/MagnunBeyaz-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 3,
+        "price": 25,
+        "title": "Magnum Karamel",
+        "image": "/src/image/Page Image/Dondurma/MagnumKaramel-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 4,
+        "price": 25,
+        "title": "Magnum Sunlover",
+        "image": "/src/image/Page Image/Dondurma/MagnumSunlover-1adet-25.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 5,
+        "price": 25,
+        "title": "Golf Bravo Badem",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoBadem-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 6,
+        "price": 25,
+        "title": "Golf Bravo Karamel",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoKaramel-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 7,
+        "price": 25,
+        "title": "Golf Bravo Beyaz",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoBeyaz-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 8,
+        "price": 25,
+        "title": "Golf Bravo Crazy",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoCrazy-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 9,
+        "price": 25,
+        "title": "Golf Bravo Brownie",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoBrownie-1adet-25.png",
+        "description": "1 Adet"
+    },
+    {
+        "id": 10,
+        "price": 25,
+        "title": "Golf Bravo Red Velvet",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoRedVelvet-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 11,
+        "price": 25,
+        "title": "Golf Bravo Karadut",
+        "image": "/src/image/Page Image/Dondurma/GolfBravoKaradut-1adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 12,
+        "price": 30,
+        "title": "Snickers Çubuk Dondurma",
+        "image": "/src/image/Page Image/Dondurma/SnickersÇubukDondurma-1adet-30.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 13,
+        "price": 12,
+        "title": "Golf Roko Dark",
+        "image": "/src/image/Page Image/Dondurma/GolfRokoDark-1ADet-12.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 14,
+        "price": 12,
+        "title": "Golf Roko",
+        "image": "/src/image/Page Image/Dondurma/GolfRoko-1adet-12.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 15,
+        "price": 12,
+        "title": "Golf Roko Beyaz",
+        "image": "/src/image/Page Image/Dondurma/GolfRokoBeyaz-1Adet-12.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 16,
+        "price": 10,
+        "title": "Golf Maraşım Sade",
+        "image": "/src/image/Page Image/Dondurma/GolfMaraşımSade-1Adet-10.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 17,
+        "price": 10,
+        "title": "Pernigotti Bal Badem",
+        "image": "/src/image/Page Image/Dondurma/PernigottiBalBadem-1Adet-10.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 18,
+        "price": 10,
+        "title": "Pernigotti Karamelli",
+        "image": "/src/image/Page Image/Dondurma/PernigottiKaramelli-1Adet-10.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 19,
+        "price": 25,
+        "title": "Bounty Dondurma",
+        "image": "/src/image/Page Image/Dondurma/BountyDondurma-1ADet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 20,
+        "price": 25,
+        "title": "Snickers White",
+        "image": "/src/image/Page Image/Dondurma/SnickersWhite-1Adet-25.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 21,
+        "price": 15,
+        "title": "Cornetto Çikolata",
+        "image": "/src/image/Page Image/Dondurma/CornettoÇikolata-1Adet-15.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 22,
+        "price": 20,
+        "title": "Cornetto Aşk Yıldızı",
+        "image": "/src/image/Page Image/Dondurma/CornettoAşkYıldızı-1Adet-20.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 23,
+        "price": 23,
+        "title": "Cornetto Antep Fıstıklı",
+        "image": "/src/image/Page Image/Dondurma/CornettoAntepFıstıklı-1Adet-23.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 24,
+        "price": 15,
+        "title": "Cornetto Kaymak",
+        "image": "/src/image/Page Image/Dondurma/CornettoKaymak-1Adet-15.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 25,
+        "price": 23,
+        "title": "Cornetto Disc Milka",
+        "image": "/src/image/Page Image/Dondurma/CornettoDiscMilka-1Adet-23.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 26,
+        "price": 23,
+        "title": "Cornetto Karamel",
+        "image": "/src/image/Page Image/Dondurma/CornettoKaramel-1Adet-23.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 27,
+        "price": 10,
+        "title": "Algida Keyif",
+        "image": "/src/image/Page Image/Dondurma/AlgidaKeyif-1Adet-10.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 28,
+        "price": 15,
+        "title": "Fantasia Black",
+        "image": "/src/image/Page Image/Dondurma/FantasiaBlack-1Adet-15.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 29,
+        "price": 15,
+        "title": "Fantasi Galaxy",
+        "image": "/src/image/Page Image/Dondurma/FantasiaGalaxy-1Adet-15.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 30,
+        "price": 20,
+        "title": "Fantasia Tria Ring",
+        "image": "/src/image/Page Image/Dondurma/FantasiaTriaRing-1adet-20.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 31,
+        "price": 20,
+        "title": "Fantasia Choco Ring",
+        "image": "/src/image/Page Image/Dondurma/FantasiaChocoRing-1Adet-20.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 32,
+        "price": 15,
+        "title": "Fantasia Sunshine",
+        "image": "/src/image/Page Image/Dondurma/FantasiaSunshine-1Adet-15.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 33,
+        "price": 15,
+        "title": "Fantasia Sakura",
+        "image": "/src/image/Page Image/Dondurma/FantasiaSakura-1Adet-15.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 34,
+        "price": 23,
+        "title": "Golf Maraşım Kornet",
+        "image": "/src/image/Page Image/Dondurma/GolfMaraşımKornet-1Adet-23.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 35,
+        "price": 23,
+        "title": "Pernigotti Fındık",
+        "image": "/src/image/Page Image/Dondurma/PernigottiFındık-1Adet-23.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 36,
+        "price": 23,
+        "title": "Pernigotti Çilek",
+        "image": "/src/image/Page Image/Dondurma/PernigottiÇilek-1adet-23.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 37,
+        "price": 23,
+        "title": "Pernigotti Karamel",
+        "image": "/src/image/Page Image/Dondurma/PernigottiKaramel-1Adet-23.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 38,
+        "price": 23,
+        "title": "Pernigotti Klasik",
+        "image": "/src/image/Page Image/Dondurma/PernigottiKlasik-1Adet-23.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 39,
+        "price": 20,
+        "title": "Dondurma Külahı",
+        "image": "/src/image/Page Image/Dondurma/DondurmaKülahı-10Adet-20.jpeg",
+        "description": "10 Adet"
+    },
+    {
+        "id": 40,
+        "price": 100,
+        "title": "Magnum Mini Badem",
+        "image": "/src/image/Page Image/Dondurma/MagnumMiniBadem-6lı-100.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 41,
+        "price": 100,
+        "title": "Magnum Mini Cookie",
+        "image": "/src/image/Page Image/Dondurma/MagnumMiniCookie-6lı-100.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 42,
+        "price": 100,
+        "title": "Magnum Mini Double",
+        "image": "/src/image/Page Image/Dondurma/MagnumMiniDouble-6lı-100.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 43,
+        "price": 100,
+        "title": "Magnum Mini Düet",
+        "image": "/src/image/Page Image/Dondurma/MagnumMiniDüet-6lı-100.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 44,
+        "price": 100,
+        "title": "Bravo Junior Fıstık Badem",
+        "image": "/src/image/Page Image/Dondurma/BravoJuniorFıstıkBadem-6lı-100.jpg",
+        "description": "6'lı"
+    },
+    {
+        "id": 45,
+        "price": 100,
+        "title": "Bravo Junior Karadut",
+        "image": "/src/image/Page Image/Dondurma/BravoJuniorKaradutBadem-6lı-100.jpg",
+        "description": "6'lı"
+    },
+    {
+        "id": 46,
+        "price": 100,
+        "title": "Bravo Crazy Nutty",
+        "image": "/src/image/Page Image/Dondurma/BravoCrazyNutty-6lı-100.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 47,
+        "price": 100,
+        "title": "Bravo Junior Crazy Fruity",
+        "image": "/src/image/Page Image/Dondurma/BravoJuniorCrazyFruity-6lı-100.png",
+        "description": "6'lı"
+    },
+    {
+        "id": 48,
+        "price": 45,
+        "title": "Borniger Meyveli Sos",
+        "image": "/src/image/Page Image/Dondurma/BornigerMeyveliSos-320g-45.jpeg",
+        "description": "320 g"
+    },
+    {
+        "id": 49,
+        "price": 45,
+        "title": "Borniger Çikolatalı Sos",
+        "image": "/src/image/Page Image/Dondurma/BornigerÇikolatalıSos-300g-45.jpeg",
+        "description": "300 g" 
+    },
+    {
+        "id": 50,
+        "price": 100,
+        "title": "Metalex Dondurma Kaşığı",
+        "image": "/src/image/Page Image/Dondurma/MetalexDondurmaKaşığı-Metal-100.jpeg",
+        "description": "Metal"
+    },
+    {
+        "id": 51,
+        "price": 60,
+        "title": "Koska Kağıt Helva",
+        "image": "/src/image/Page Image/Dondurma/KoskaKAğıtHelva-140g-60.jpeg",
+        "description": "140 g"
+    },
+    {
+        "id": 52,
+        "price": 80,
+        "title": "Golf Maraşım Sade",
+        "image": "/src/image/Page Image/Dondurma/GolfMaraşımSade-500ml-80.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 53,
+        "price": 80,
+        "title": "Golf Maraşım Çikolata Sade",
+        "image": "/src/image/Page Image/Dondurma/GolfMaraşımÇikolataSade-500ml-80.jpeg",
+        "description": "500 ml"
+    },
+    {
+        "id": 54,
+        "price": 75,
+        "title": "Algida Maraş Bol Kaymak",
+        "image": "/src/image/Page Image/Dondurma/AlgidaMaraşBolKaymak-500ml-75.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 55,
+        "price": 75,
+        "title": "Maraş Usulü Çİfte Dövme",
+        "image": "/src/image/Page Image/Dondurma/MaraşUsulüÇifteDövme-500ml-75.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 56,
+        "price": 15,
+        "title": "Maraş Usulü Cup",
+        "image": "/src/image/Page Image/Dondurma/MaraşUsulüCup-105ml-15.jpg",
+        "description": "105 ml"
+    },
+    {
+        "id": 57,
+        "price": 70,
+        "title": "Maraş Usulü Sade",
+        "image": "/src/image/Page Image/Dondurma/MaraşUsulüSade-500ml-70.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 58,
+        "price": 57,
+        "title": "70",
+        "image": "/src/image/Page Image/Dondurma/MaraşUsulüÇikolatalı-500ml-70.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 59,
+        "price": 75,
+        "title": "Maraş Usulü Fıstıklı",
+        "image": "/src/image/Page Image/Dondurma/MaraşUsulüFıstıklı-500ml-75.jpg",
+        "description": "500 ml"
+    },
+    {
+        "id": 60,
+        "price": 90,
+        "title": "Royal Meyve Sepeti",
+        "image": "/src/image/Page Image/Dondurma/RoyalMEyveSepeti-850ml-90.jpeg",
+        "description": "850 ml"
+    },
+    {
+        "id": 61,
+        "price": 90,
+        "title": "Royal Madagaskar Vanilyası",
+        "image": "/src/image/Page Image/Dondurma/RoyalMadagaskarVanilyası-850ml-90.jpeg",
+        "description": "850 ml"
+    },
+    {
+        "id": 62,
+        "price": 90,
+        "title": "Rayol Afyon Çay Meyvesi",
+        "image": "/src/image/Page Image/Dondurma/RoyalAfyonÇayVişnesi-850ml-90.jpeg",
+        "description": "850 ml"
+    },
+    {
+        "id": 63,
+        "price": 90, 
+        "title": "Royal Yaz Ferahlığı",
+        "image": "/src/image/Page Image/Dondurma/RoyalYazFerahlığı-850ml-90.jpg",
+        "description": "850 ml"
+    }
+]

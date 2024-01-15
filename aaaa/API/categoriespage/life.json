@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "price": 99,
+        "title": "Crafts And Arts Boya",
+        "image": "/src/image/Page Image/EvYaşam/CraftsAndArtsBoya-12li-99.jpeg",
+        "description": "12'li"
+    },
+    {
+        "id": 2,
+        "price": 26,
+        "title": "Faber Castell Boya Kalemi",
+        "image": "/src/image/Page Image/EvYaşam/FaberCastellBoyaKalemi-12Renk-26.jpeg",
+        "description": "12 Renk"
+    },
+    {
+        "id": 3,
+        "price":26,
+        "title": "Faber Castell Resim Defteri",
+        "image": "/src/image/Page Image/EvYaşam/FaberCastellResimDefteri-25x35cm-26.jpeg",
+        "description": "25 x 35 cm"
+    },
+    {
+        "id": 4,
+        "price": 24,
+        "title": "Globbox Küp Blok",
+        "image": "/src/image/Page Image/EvYaşam/GloboxKüpBlok-24-90yaprak.jpeg",
+        "description": "90 Yaprak"
+    },
+    {
+        "id": 5,
+        "price": 12,
+        "title": "Kraf Fosforlu Kalem" ,
+        "image": "/src/image/Page Image/EvYaşam/KrafFosforluKalem-Sarı-12.jpeg",
+        "description": "Sarı"
+    },
+    {
+        "id": 6,
+        "price": 25,
+        "title": "Notix Sarı Not Kağıtları" ,
+        "image": "/src/image/Page Image/EvYaşam/NotixSarıNotKağıtları-25-80yaprak.jpeg",
+        "description": "80 Yaprak"
+    },
+    {
+        "id": 7,
+        "price": 30,
+        "title": "Pattex Japon Yapıştırıcısı",
+        "image": "/src/image/Page Image/EvYaşam/PattexJaponYapıştırıcısı-3g-30.jpeg",
+        "description": "3 g"
+    },
+    {
+        "id": 8,
+        "price": 22,
+        "title": "Şeffaf Koli Bandı",
+        "image": "/src/image/Page Image/EvYaşam/ŞeffafKoliBandı-40m-22.jpeg",
+        "description": "40 m "
+    },
+    {
+        "id": 9,
+        "price": 99,
+        "title": "Crafts And Arts Boya",
+        "image": "/src/image/Page Image/EvYaşam/CraftsAndArtsBoya-12li-99.jpeg",
+        "description": "12'li"
+    },
+    {
+        "id": 10,
+        "price": 26,
+        "title": "Faber Castell Boya Kalemi",
+        "image": "/src/image/Page Image/EvYaşam/FaberCastellBoyaKalemi-12Renk-26.jpeg",
+        "description": "12 Renk"
+    },
+    {
+        "id": 11,
+        "price":26,
+        "title": "Faber Castell Resim Defteri",
+        "image": "/src/image/Page Image/EvYaşam/FaberCastellResimDefteri-25x35cm-26.jpeg",
+        "description": "25 x 35 cm"
+    },
+    {
+        "id": 12,
+        "price": 24,
+        "title": "Globbox Küp Blok",
+        "image": "/src/image/Page Image/EvYaşam/GloboxKüpBlok-24-90yaprak.jpeg",
+        "description": "90 Yaprak"
+    },
+    {
+        "id": 13,
+        "price": 12,
+        "title": "Kraf Fosforlu Kalem" ,
+        "image": "/src/image/Page Image/EvYaşam/KrafFosforluKalem-Sarı-12.jpeg",
+        "description": "Sarı"
+    },
+    {
+        "id": 14,
+        "price": 25,
+        "title": "Notix Sarı Not Kağıtları" ,
+        "image": "/src/image/Page Image/EvYaşam/NotixSarıNotKağıtları-25-80yaprak.jpeg",
+        "description": "80 Yaprak"
+    },
+    {
+        "id": 15,
+        "price": 1040,
+        "title": "Monopoly ",
+        "image": "/src/image/Page Image/EvYaşam/Monopoly-1ürün-1040.png",
+        "description": "1 Ürün"
+    },
+    {
+        "id": 16,
+        "price": 447,
+        "title": "Master Polyester Tavla",
+        "image": "/src/image/Page Image/EvYaşam/MasterPolyesterTavla-1ürün-447.jpeg",
+        "description": "1 Ürün"
+    },
+    {
+        "id": 17,
+        "price": 10,
+        "title": "Cumhuriyet Gazetesi",
+        "image": "/src/image/Page Image/EvYaşam/CumhuriyetGazetesi.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 18,
+        "price": 10,
+        "title": "Fanatik Gazetesi",
+        "image": "/src/image/Page Image/EvYaşam/FanatikGazetesi-10-1adet.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 19,
+        "price": 10 ,
+        "title": "Hürriyet Gazetesi",
+        "image": "/src/image/Page Image/EvYaşam/HürriyetGazetes.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 20,
+        "price": 10,
+        "title": "Milliyet Gazetesi",
+        "image": "/src/image/Page Image/EvYaşam/MilliyetGazetesi-5.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 21,
+        "price": 70,
+        "title": "All About Space",
+        "image": "/src/image/Page Image/EvYaşam/AllAboutSpace-70-1adet-.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 22,
+        "price": 45,
+        "title": "Kafa",
+        "image": "/src/image/Page Image/EvYaşam/Kafa-45-1adet.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 23,
+        "price": 40,
+        "title": "Sofra",
+        "image": "/src/image/Page Image/EvYaşam/Sofra-40-1adet.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 24,
+        "price": 80,
+        "title": "Atlas",
+        "image": "/src/image/Page Image/EvYaşam/Atlas-80-1adet.jpg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 25,
+        "price": 117,
+        "title": "LAV Suma Rakı Bardağı",
+        "image": "/src/image/Page Image/EvYaşam/LAVSumaRakıBardağı-6lı-117.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 26,
+        "price": 87,
+        "title": "LAV Sorgun Bira Bardağı",
+        "image": "/src/image/Page Image/EvYaşam/LAVSorgunBiraBardağı-2li-87.jpeg",
+        "description": "2'li"
+    },
+    {
+        "id": 27,
+        "price":210,
+        "title": "LAV Gaia Şarap Bardağı",
+        "image": "/src/image/Page Image/EvYaşam/LAVGaiaŞarapBardağı-6lı-210.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 28,
+        "price": 130,
+        "title": "LAV Ajda Çay Bardağı ",
+        "image": "/src/image//Page Image/EvYaşam/LAVAjdaÇayBardağı-6lı-130.jpeg",
+        "description": "6'lı"
+    },
+    {
+        "id": 29,
+        "price": 85,
+        "title": "Su Pompası" ,
+        "image": "/src/image/Page Image/EvYaşam/SuPompası-1Adet-85.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 30,
+        "price": 130,
+        "title": "Metalex Asia Sebze Doğrama Bıçağı" ,
+        "image": "/src/image/Page Image/EvYaşam/MetaltexAsiaSebzeDoğramaBıçağı-130.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 31,
+        "price": 40,
+        "title": "Metalex Buz Kalıbı ",
+        "image": "/src/image/Page Image/EvYaşam/MetaltexBuzKalıbı-1adet-40.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 32,
+        "price": 185,
+        "title": "Metalex Tirbuşon",
+        "image": "/src/image/Page Image/EvYaşam/MetaltexTirbuşon-Krom-185.jpeg",
+        "description": "1 Adet"
+    },
+    {
+        "id": 33,
+        "price": 42,
+        "title": "Metalex Mrs. Spatula",
+        "image": "/src/image/Page Image/EvYaşam/MetaltexMrs.Spatula-Silikon-42.jpeg",
+        "description": "Silikon"
+    },
+    {
+        "id": 34,
+        "price": 39,
+        "title": "Metlex Mr. Çırpıcı",
+        "image": "/src/image/Page Image/EvYaşam/MetaltexMr.Çırpıcı-Silikon-39.jpeg",
+        "description": "Silikon"
+    },
+    {
+        "id": 35,
+        "price":26,
+        "title": "Cricket Çakmak",
+        "image": "/src/image/Page Image/EvYaşam/CricketÇakmak-2li-26.jpeg",
+        "description": "2'li"
+    },
+    {
+        "id":36 ,
+        "price": 10,
+        "title": "Metalex Körüklü Pipet",
+        "image": "/src/image/Page Image/EvYaşam/MetaltexKörüklüPipet-100lü-10.jpeg",
+        "description": "100'lü"
+    },
+    {
+        "id": 37,
+        "price": 110,
+        "title": "Duracell Kalın Kalem Pil",
+        "image": "/src/image/Page Image/EvYaşam/DuracellKalın-4'lü-110.jpeg",
+        "description": "4'lü"
+    },
+    {
+        "id": 38,
+        "price": 153,
+        "title": "Duracell İnce Kalem Pil",
+        "image": "/src/image/Page Image/EvYaşam/DuracellİnceKalemPil-4Lü-153.jpeg",
+        "description": "4'lü"
+    },
+    {
+        "id": 39,
+        "price":168,
+        "title": "Duracell C",
+        "image": "/src/image/Page Image/EvYaşam/DuracellC-2'li-168.jpeg",
+        "description": "2'li"
+    },
+    {
+        "id":40 ,
+        "price": 153,
+        "title": "Duracell 9 V",
+        "image": "/src/image/Page Image/EvYaşam/Duracell9V-1Adet-153.jpeg",
+        "description": "1 Adet"
+    }
+]

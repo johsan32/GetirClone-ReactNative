@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "price": 153,
+        "title": "ttec Typce-C Şarj Kablosu",
+        "image": "/src/image/Page Image/Teknoloji/ttec-TypcecŞarjKablosu-30cm-153.jpeg",
+        "description": "30 cm"
+    },
+    {
+        "id": 2,
+        "price": 218,
+        "title": "Ttec Iphone Şarj Kablosu",
+        "image": "/src/image/Page Image/Teknoloji/tteciphoneşarjkablosu-30cm-218.jpeg",
+        "description": "30 cm"
+    },
+    {
+        "id": 3,
+        "price": 110,
+        "title": "Ttec Micro USB Kablo",
+        "image": "/src/image/Page Image/Teknoloji/ttecMicroUsbKablo-30cm-110.jpeg",
+        "description": "30 cm "
+    },
+    {
+        "id": 4,
+        "price": 142,
+        "title": "Ttec Micro USB Kablo",
+        "image": "/src/image/Page Image/Teknoloji/ttecmicrousbkablo-120cm-142.jpg",
+        "description": "120 cm"
+    },
+    {
+        "id": 5,
+        "price": 437,
+        "title": "Apple Güç Adaptörü ",
+        "image": "/src/image/Page Image/Teknoloji/AppleGüçAdaptörü-5w-437.jpeg",
+        "description": "5 w"
+    },
+    {
+        "id": 6,
+        "price": 620,
+        "title": "Apple Güç Adaptörü",
+        "image": "/src/image/Page Image/Teknoloji/AppleGüçAdaptörü-12w-620.jpeg",
+        "description": "12 w"
+    },
+    {
+        "id": 7,
+        "price": 190,
+        "title": "Apple Lightning Jak Kablosu",
+        "image": "/src/image/Page Image/Teknoloji/AppleLightningJakKablosu-3.5mm-190.jpeg",
+        "description": "3.5 mm"
+    },
+    {
+        "id": 8,
+        "price": 620,
+        "title": "Apple Lightning USB Kablosu",
+        "image": "/src/image/Page Image/Teknoloji/AppleLightningUSBKablosu-100cm-620.jpeg",
+        "description": "100 cm"
+    }
+]

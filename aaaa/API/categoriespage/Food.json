@@ -1,0 +1,555 @@
+[
+    {
+        "id": 1,
+        "price": 80,
+        "title": "Dana Jambonlu",
+        "image": "/src/image/Page Image/Yiyecek/DanaJambonlu-145g-80.jpeg",
+        "description": "145 g"
+    },
+    {
+        "id": 2,
+        "price": 52,
+        "title": "Ton Balıklı",
+        "image": "/src/image/Page Image/Yiyecek/GurmeTonBalıklı-165g-52.jpg",
+        "description": "165 g"
+    },
+    {
+        "id": 3,
+        "price": 80,
+        "title": "Hindi Fümeli",
+        "image": "/src/image/Page Image/Yiyecek/HindiFümeli-145g-80.jpeg",
+        "description": "145 g"
+    },
+    {
+        "id": 4,
+        "price": 78,
+        "title": "Jambon & Cheddar",
+        "image": "/src/image/Page Image/Yiyecek/Jambon&Cheddar-230g-78.jpg",
+        "description": "230 g"
+    },
+    {
+        "id": 5,
+        "price": 45,
+        "title": "Kaşar & Salam",
+        "image": "/src/image/Page Image/Yiyecek/Kaşar&Salam-145g-45.jpg",
+        "description": "145 g"
+    },
+    {
+        "id": 6,
+        "price": 45,
+        "title": "Kaşarlı",
+        "image": "/src/image/Page Image/Yiyecek/Kaşarlı-145g-45.jpg",
+        "description": "45 g"
+    },
+    {
+        "id": 7,
+        "price": 26,
+        "title": "Peynir & Salam",
+        "image": "/src/image/Page Image/Yiyecek/Peynir&Salam-100g-26.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 8,
+        "price": 59,
+        "title": "Tavuk Teriyaki",
+        "image": "/src/image/Page Image/Yiyecek/TavukTeriyaki-220g-59.jpeg",
+        "description": "220 g"
+    },
+    {
+        "id": 9,
+        "price": 8,
+        "title": "Knoor Tavuklu Noodle",
+        "image": "/src/image/Page Image/Yiyecek/KnoorTavukluNoodle-66g-8.jpg",
+        "description": "66 g"
+    },
+    {
+        "id": 10,
+        "price": 9,
+        "title": "Indomie Körili Noodle",
+        "image": "/src/image/Page Image/Yiyecek/IndomieKöriliNoodle-75g-9.jpg",
+        "description": "75 g"
+    },
+    {
+        "id": 11,
+        "price": 9,
+        "title": "Indomie Sebzeli Noodle",
+        "image": "/src/image/Page Image/Yiyecek/IndomieSebzel.jpg",
+        "description": "75 g"
+    },
+    {
+        "id": 12,
+        "price": 9,
+        "title": "Indomie Tavuklu Noodle",
+        "image": "/src/image/Page Image/Yiyecek/IndomieTavukluNoodle-70g-9.jpg",
+        "description": "70 g"
+    },
+    {
+        "id": 13,
+        "price": 36,
+        "title": "Dardanel Fasulyeli Ton",
+        "image": "/src/image/Page Image/Yiyecek/DardanelFasulyeliTon-160g-36.jpg",
+        "description": "160 g"
+    },
+    {
+        "id": 14,
+        "price": 36,
+        "title": "Dardanel Kuskuslu Ton",
+        "image": "/src/image/Page Image/Yiyecek/DardanelKuskusluTon-160g-36.jpg",
+        "description": "160 g"
+    },
+    {
+        "id": 15,
+        "price": 36,
+        "title": "Dardanel Makarnalı Ton",
+        "image": "/src/image/Page Image/Yiyecek/DardanelMakarnalıTon-160g-36.jpg",
+        "description": "160 g"
+    },
+    {
+        "id": 16,
+        "price": 36,
+        "title": "Dardanel Tahıllı Ton",
+        "image": "/src/image/Page Image/Yiyecek/DardanelTahıllıTon-36.jpg",
+        "description": "160 g"
+    },
+    {
+        "id": 17,
+        "price": 26,
+        "title": "Mercimekli Bulgur Pilavı",
+        "image": "/src/image/Page Image/Yiyecek/MercimekliBulgurPilavı-250g-26.jpg",
+        "description": "250 g "
+    },
+    {
+        "id": 18,
+        "price": 33,
+        "title": "Sebzeli Bulgur Pilavı",
+        "image": "/src/image/Page Image/Yiyecek/SebzeliBulgurPilavı-250g-33.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 19,
+        "price": 26,
+        "title": "Nohutlu Bulgur Pilavı",
+        "image": "/src/image/Page Image/Yiyecek/NohutluBulgurPilavı-250g-26.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 20,
+        "price": 32,
+        "title": "Napoliten Soslu Makarna",
+        "image": "/src/image/Page Image/Yiyecek/NapolitenSosluMakarna-250g-32.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 21,
+        "price": 32,
+        "title": "Arabiata Soslu Makarna",
+        "image": "/src/image/Page Image/Yiyecek/ArabiataSosluMakarna-250g-32.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 22,
+        "price": 53,
+        "title": "Etli Kuru Fasulye",
+        "image": "/src/image/Page Image/Yiyecek/EtliKuruFasulye-250g-53.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 23,
+        "price": 53,
+        "title": "Etli Nohut Yemeği",
+        "image": "/src/image/Page Image/Yiyecek/EtliNohutYemeği-250g-53.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 24,
+        "price": 36,
+        "title": "Yayla Haşlanmış Fasulye",
+        "image": "/src/image/Page Image/Yiyecek/YaylaHaşlanmışFasulye-700g-36.jpg",
+        "description": "700 g"
+    },
+    {
+        "id": 25,
+        "price": 36,
+        "title": "Yayla Haşlanmış Garnitür",
+        "image": "/src/image/Page Image/Yiyecek/YaylaHaşlanmışGarnitür-560g-36.jpg",
+        "description": "560 g"
+    },
+    {
+        "id": 26,
+        "price": 33,
+        "title": "Yayla Haşlanmış Nohut",
+        "image": "/src/image/Page Image/Yiyecek/YaylaHaşlanmışNohut-700g-33.jpg",
+        "description": "700 g"
+    },
+    {
+        "id": 27,
+        "price": 7,
+        "title": "Yayla Üzüm Hoşafı",
+        "image": "/src/image/Page Image/Yiyecek/YaylaÜzümHoşafı-250g-7.jpg",
+        "description": "250 g"
+    },
+    {
+        "id": 28,
+        "price": 33,
+        "title": "Yayla Tavuklu Pilav",
+        "image": "/src/image/Page Image/Yiyecek/YaylaTavukluPilav-200g-33.jpg",
+        "description": "200 g"
+    },
+    {
+        "id": 29,
+        "price": 27,
+        "title": "TADA Sebzeli Bulgur Pilavı",
+        "image": "/src/image/Page Image/Yiyecek/TadaSebzeliBulgurPilavı-250g-27.jpeg",
+        "description": "250 g"
+    },
+    {
+        "id": 30,
+        "price": 45,
+        "title": "TADA Yaprak Sarma",
+        "image": "/src/image/Page Image/Yiyecek/TadaYaprakSarma-190g-45.jpg",
+        "description": "190 g"
+    },
+    {
+        "id": 31,
+        "price": 40,
+        "title": "TADA Mercimekli Enginar",
+        "image": "/src/image/Page Image/Yiyecek/TadaMercimekliEnginar-200g-40.jpeg",
+        "description": "200 g"
+    },
+    {
+        "id": 32,
+        "price": 44,
+        "title": "TADA Kuru Patlıcan Dolma",
+        "image": "/src/image/Page Image/Yiyecek/TadaKuruPatlıcanDolma-200g-44.jpg",
+        "description": "200 g"
+    },
+    {
+        "id": 33,
+        "price": 85,
+        "title": "Banvit Piliç Nugget",
+        "image": "/src/image/Page Image/Yiyecek/BanvitPiliçNugget-700g-85.jpeg",
+        "description": "700 g"
+    },
+    {
+        "id": 34,
+        "price": 77,
+        "title": "Banvit Piliç Şinitzel",
+        "image": "/src/image/Page Image/Yiyecek/BanvitPiliçSinitzel-700g-77.jpeg",
+        "description": "700 g"
+    },
+    {
+        "id": 35,
+        "price": 48,
+        "title": "Erpiliç Cordon Bleu",
+        "image": "/src/image/Page Image/Yiyecek/ErpiliçCordonBleu-300g-48.jpeg",
+        "description": "300 g"
+    },
+    {
+        "id": 36,
+        "price": 116,
+        "title": "Başyazıcı Kayseri Mantısı",
+        "image": "/src/image/Page Image/Yiyecek/BaşyazıcıKayseriMantısı-500g-116.jpeg",
+        "description": "500 g"
+    },
+    {
+        "id": 37,
+        "price": 154,
+        "title": "Pizza King Pizza",
+        "image": "/src/image/Page Image/Yiyecek/PizzaKing-4'lü-154.jpeg",
+        "description": "4'lü"
+    },
+    {
+        "id": 38,
+        "price": 55,
+        "title": "Super Fresh Pizza Tost",
+        "image": "/src/image/Page Image/Yiyecek/SuperFreshPizzaTost-250g-55.jpeg",
+        "description": "250 g"
+    },
+    {
+        "id": 39,
+        "price": 61,
+        "title": "Taş Fırın Gurme Pizza ",
+        "image": "/src/image/Page Image/Yiyecek/TaşFırınGurmePizza-355g-61.jpeg",
+        "description": "355 g"
+    },
+    {
+        "id": 40,
+        "price": 94,
+        "title": "Dr.Oetker Karışık Pizza ",
+        "image": "/src/image/Page Image/Yiyecek/Dr.OetkerKarışıkPizza-415g-94.png",
+        "description": "415 g"
+    },
+    {
+        "id": 41,
+        "price": 89,
+        "title": "Super Fresh Simit",
+        "image": "/src/image/Page Image/Yiyecek/SuperFreshSimit-4x100g-89.jpeg",
+        "description": "4 x 100 g"
+    },
+    {
+        "id": 42,
+        "price": 97,
+        "title": "Super Fresh Sade Poğaça",
+        "image": "/src/image/Page Image/Yiyecek/SuperfreshSadePoğaça-6x70g-97.jpeg",
+        "description": "6 x 70 g"
+    },
+    {
+        "id": 43,
+        "price": 40,
+        "title": "Super Fresh Mini Baget",
+        "image": "/src/image/Page Image/Yiyecek/SuperfreshMiniBaget-8x37.5g-40.jpeg",
+        "description": "8 x 37.5 g"
+    },
+    {
+        "id": 44,
+        "price": 75,
+        "title": "Super Fresh Sandviç Ekmeği",
+        "image": "/src/image/Page Image/Yiyecek/SuperfreshSandviçEkmeği-5x90g-75.jpeg",
+        "description": "5 x 90 g"
+    },
+    {
+        "id": 45,
+        "price": 76,
+        "title": "Feast Soğan Halkası",
+        "image": "/src/image/Page Image/Yiyecek/FeastSoğanHalkası-450g-76.png",
+        "description": "450 g"
+    },
+    {
+        "id": 46,
+        "price": 66,
+        "title": "Feast Peynirli Çubuk",
+        "image": "/src/image/Page Image/Yiyecek/FeastPeynirliÇubuk-300g-66.jpeg",
+        "description": "300 g"
+    },
+    {
+        "id": 47,
+        "price": 120,
+        "title": "Feast Churros Patates",
+        "image": "/src/image/Page Image/Yiyecek/FeastChurrosPatates-1Kg-120.jpeg",
+        "description": "1 Kg"
+    },
+    {
+        "id": 48,
+        "price": 110,
+        "title": "Feast Parmak Patetes",
+        "image": "/src/image/Page Image/Yiyecek/FeastParmakPatates-1kg-110.png",
+        "description": "1 Kg"
+    },
+    {
+        "id": 49,
+        "price": 154,
+        "title": "Dana Izgara Köfte",
+        "image": "/src/image/Page Image/Yiyecek/DanaIzgaraKöfte-320g-154.jpeg",
+        "description": "320 g"
+    },
+    {
+        "id":50,
+        "price": 52,
+        "title": "55",
+        "image": "/src/image/Page Image/Yiyecek/SuperfreshMantı-400g-55.jpeg",
+        "description": "400 g"
+    },
+    {
+        "id": 51,
+        "price": 110,
+        "title": "Pek Food Lahmacun",
+        "image": "/src/image/Page Image/Yiyecek/PekFoodLahmacun-330g-110.jpeg",
+        "description": "330 g"
+    },
+    {
+        "id": 52,
+        "price": 80,
+        "title": "Porsi10 İçli Köfte",
+        "image": "/src/image/Page Image/Yiyecek/Porsi10İçliKöfte-320g-80.jpeg",
+        "description": "320 g"
+    },
+    {
+        "id": 53,
+        "price": 48,
+        "title": "Feast Ispanak",
+        "image": "/src/image/Page Image/Yiyecek/FeastIspanak-450g-48.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 54,
+        "price": 66,
+        "title": "Feast Mısır",
+        "image": "/src/image/Page Image/Yiyecek/FeastMısır-450g-66.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 55,
+        "price": 55,
+        "title": "Feast Bezelye",
+        "image": "/src/image/Page Image/Yiyecek/FeastBezelye-450g-55.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 56,
+        "price": 50,
+        "title": "Feast Brokoli",
+        "image": "/src/image/Page Image/Yiyecek/FeastBrokoli-450g-50.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 57,
+        "price": 48,
+        "title": "Feast Ispanak",
+        "image": "/src/image/Page Image/Yiyecek/FeastIspanak-450g-48.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 58,
+        "price": 29,
+        "title": "Feast Bezelye",
+        "image": "/src/image/Page Image/Yiyecek/FeastBezelye-450g-35.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 59,
+        "price": 70,
+        "title": "Feast Taze Fasulye",
+        "image": "/src/image/Page Image/Yiyecek/FeastTazeFasulye-450g-70.jpeg",
+        "description": "450 g"
+    },
+    {
+        "id": 60,
+        "price": 22,
+        "title": "Eker Supangle",
+        "image": "/src/image/Page Image/Yiyecek/EkerSupangle-150g-22.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 61,
+        "price": 42,
+        "title": "Eker Sütlaç",
+        "image": "/src/image/Page Image/Yiyecek/EkerSütlaç-500g-42.jpg",
+        "description": "500 g "
+    },
+    {
+        "id": 62,
+        "price": 22,
+        "title": "Eker Profiterol",
+        "image": "/src/image/Page Image/Yiyecek/EkerProfiterol-100g-22.jpeg",
+        "description": "100 g"
+    },
+    {
+        "id": 63,
+        "price": 20,
+        "title": "Eker Keşkül",
+        "image": "/src/image/Page Image/Yiyecek/EkerKeşkül-150g-20.jpeg",
+        "description": "150 g" 
+    },
+    {
+        "id": 64,
+        "price": 23,
+        "title": "Eker Tavukgöğsü",
+        "image": "/src/image/Page Image/Yiyecek/EkerTavukgöğsü-150g-23.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 65,
+        "price": 22,
+        "title": "Eker Kazandibi",
+        "image": "/src/image/Page Image/Yiyecek/EkerKazandibi-150g-22.jpeg",
+        "description": "150 g"
+    },
+    {
+        "id": 66,
+        "price": 48,
+        "title": "Danette Çilekli Puding",
+        "image": "/src/image/Page Image/Yiyecek/DanetteÇilekliPuding-4x100g-48.jpeg",
+        "description": "4 x 100 g"
+    },
+    {
+        "id": 67,
+        "price": 41,
+        "title": "Danette Muzlu Puding",
+        "image": "/src/image/Page Image/Yiyecek/DanetteMuzluPuding-4x100g-41.jpeg",
+        "description": "4 x 100 g"
+    },
+    {
+        "id": 68,
+        "price": 48,
+        "title": "Danette Çikolatalı Puding",
+        "image": "/src/image/Page Image/Yiyecek/DanetteÇikolatalıPuding-48.jpeg",
+        "description": "4 x 100 g"
+    },
+    {
+        "id": 69,
+        "price": 60,
+        "title": "Islak Kek",
+        "image": "/src/image/Page Image/Yiyecek/IslakKek-130g-60.jpeg",
+        "description": "130 g"
+    },
+    {
+        "id": 70,
+        "price": 43 ,
+        "title": "Üstade Cevizli Çiğ Köfte",
+        "image": "/src/image/Page Image/Yiyecek/ÜstadeCevizliÇiğKöfteDürüm-230g-43.jpeg",
+        "description": "230 g"
+    },
+    {
+        "id": 71,
+        "price": 15,
+        "title": "Üstade Dürüm Çiğ Köfte",
+        "image": "/src/image/Page Image/Yiyecek/ÜstadeDürümÇiğköfte-180g-15.jpeg",
+        "description": "180 g"
+    },
+    {
+        "id": 72,
+        "price": 21,
+        "title": "Üstade Porsiyon Çiğ Köfte",
+        "image": "/src/image/Page Image/Yiyecek/ÜstadePorsiyonÇiğKöfte-380g-27.jpg",
+        "description": "380 g"
+    },
+    {
+        "id": 73,
+        "price": 61,
+        "title": "Uzungil Çiğ Köfte",
+        "image": "/src/image/Page Image/Yiyecek/UzungilÇiğKöfte-350g-61.jpeg",
+        "description": "350 g"
+    },
+    {
+        "id": 74,
+        "price": 133,
+        "title": "Veggy Tofu",
+        "image": "/src/image/Page Image/Yiyecek/VeggyTofu-300g-133.jpg",
+        "description": "300 g"
+    },
+    {
+        "id": 75,
+        "price": 154,
+        "title": "Veggy Vegan Köfte",
+        "image": "/src/image/Page Image/Yiyecek/VeggyVeganKögte-300g-154.jpg",
+        "description": "300 g"
+    },
+    {
+        "id": 76,
+        "price": 132,
+        "title": "Veggy Bezelye Proteini",
+        "image": "/src/image/Page Image/Yiyecek/VeggyBezelyeProteini-200g-132.jpg",
+        "description": "200 g "
+    },
+    {
+        "id": 77,
+        "price": 165,
+        "title": "Veggy Tütsü Aromalı Tofu",
+        "image": "/src/image/Page Image/Yiyecek/VeggyTütsüAromalıTofu-300g-165.jpg",
+        "description": "300 g"
+    },
+    {
+        "id": 78,
+        "price": 51,
+        "title": "Uzungil Rus Salatası",
+        "image": "/src/image/Page Image/Yiyecek/UzungilRusSalatası-200g-51.jpeg",
+        "description": "200 g"
+    },
+    {
+        "id": 79,
+        "price": 220,
+        "title": "Ariste Peynir Tabağı",
+        "image": "/src/image/Page Image/Yiyecek/AristePeynirTabağı-250g-220.jpg",
+        "description": "250 g"
+    }
+]

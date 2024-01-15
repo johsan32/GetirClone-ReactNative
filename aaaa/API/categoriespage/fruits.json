@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "price": 39.99,
+        "title": "Üzüm" ,
+        "image": "/src/image/Page Image/Meyve Sebze/üzüm-500g-3999.jpeg",
+        "description": "500 g"
+       
+      },
+      {
+        "id": 2,
+        "price": 23.99,
+        "title": "Mandalina "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/mandalina-1kg-2399.jpg",
+        "description": "1 Kg"
+      },
+      {
+        "id": 3,
+        "price": 64.99,
+        "title": "Kavun  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/kırkağaçkavunu-3.5kg-6499.jpeg",
+        "description": "1 L"
+      },
+      {
+        "id":4,
+        "price": 39.99,
+        "title": "Kivi" ,
+        "image": "/src/image/Page Image/Meyve Sebze/kivi-500gr-3999.jpeg",
+        "description": "500 g"
+       
+      },
+      {
+        "id": 5,
+        "price": 54.99,
+        "title": " İthal Muz  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/ithalmuz-650gr-5499.jpeg",
+        "description": "650 g "
+      },
+      {
+        "id": 6,
+        "price": 42.99,
+        "title": "Ayva  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/ayva-800gr-4299.jpeg",
+        "description": "800 g "
+      },
+      {
+        "id": 7,
+        "price":42.99,
+        "title": "Ayva "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/ayva-800gr-4299.jpeg",
+        "description": "800 g"
+      },
+      {
+        "id": 8,
+        "price": 29.99,
+        "title": "Avakado "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/avakado-450gr-2999.jpeg",
+        "description": "450 g"
+      },
+      {
+        "id": 9,
+        "price": 69.99,
+        "title": "Ananas "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/ananas-1adet-6999.jpg",
+        "description": "1 adet "
+      },
+      {
+        "id": 10,
+        "price": 22.99,
+        "title": " Kırmızı Elma  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/elma-1kg-2999.jpeg",
+        "description": "1 Kg "
+      },
+      {
+        "id": 11,
+        "price": 29.99,
+        "title": "Yeşil Elma  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Yeşil elma-750g-2999.jpeg",
+        "description": "750 g "
+      },
+      {
+        "id": 12,
+        "price": 45.99,
+        "title": "Portakal  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/portakal-2kg-4599.jpeg",
+        "description": "2 Kg "
+      },
+      {
+        "id": 13,
+        "price": 42.99,
+        "title": "Domates "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/domates-1kg-4299.jpg",
+        "description": "1 Kg  "
+      },
+      {
+        "id": 14,
+        "price": 20.99,
+        "title": "Havuç  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/havuç-500gr-2099.jpeg",
+        "description": "500 g "
+      },
+      {
+        "id": 15,
+        "price": 31.99,
+        "title": " Kabak "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/kabak-1kg-3199.jpeg",
+        "description": " 1 Kg" 
+      },
+      {
+        "id": 16,
+        "price": 34.99,
+        "title": "Kapya Biber  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/kapyabiber-500gr-3499.jpeg",
+        "description": "500 g "
+      },
+      {
+        "id": 17,
+        "price": 44.99,
+        "title": " Kereviz  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/kereviz-1kg-4499.jpeg",
+        "description": " 1 Kg"
+      },
+      {
+        "id": 18,
+        "price": 39.99,
+        "title": " Kuru Soğan "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/kurusoğan-2kg-3999.jpeg",
+        "description": " 2 Kg"
+      }, 
+      {
+        "id": 19,
+        "price": 42.99,
+        "title": " Lime  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/lime-100gr-4299.jpg",
+        "description": "100 g "
+      },
+      {
+        "id": 20,
+        "price": 29.99,
+        "title": "Limon  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/limon-500gr-2999.jpeg",
+        "description": " 500 g "
+      },
+      {
+        "id": 21,
+        "price": 22.70,
+        "title": " Mantar  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/mantar-250gr-2750.jpg",
+        "description": " 250 g "
+      },
+      {
+        "id": 22,
+        "price": 29.99 ,
+        "title": " Patates  "  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/patates-1kg-2999.jpeg",
+        "description": " 1 Kg "
+      },
+      {
+        "id": 23,
+        "price": 29.99 ,
+        "title": "Patlıcan"  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/patlıcan-1kg-2999.jpg",
+        "description": " 1 Kg "
+      },
+      {
+        "id": 24,
+        "price": 54.99 ,
+        "title": "Pırasa"  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/pırasa-1kg-5499.jpeg",
+        "description": "1Kg"
+      },
+      {
+        "id": 25,
+        "price": 18.99 ,
+        "title": "Salatalık"  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/salatalık-500gr-1899.jpeg",
+        "description": "500 g"
+      },
+      {
+        "id": 26,
+        "price": 22.99 ,
+        "title": "Sarımsak"  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/sarımsak-250gr-2299.jpg",
+        "description": "250 g"
+      },
+      {
+        "id": 27,
+        "price": 22.99,
+        "title": "Sivri Biber",
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/sivribiber-250gr-2999.jpeg",
+        "description": "250 g"
+      },
+      {
+        "id": 28,
+        "price": 62.99,
+        "title": "Zencefil"  ,
+        "image": "/src/image/Page Image/Meyve Sebze/Sebzeler/zencefil-250gr-6299.jpg",
+        "description": "250  g"
+      }
+]
+
